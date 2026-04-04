@@ -41,3 +41,4 @@ data/db/
 outputs/models/
 outputs/results/*
 !outputs/results/.gitkeep
+IPL.csv 
