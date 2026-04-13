@@ -134,6 +134,5 @@ Generated in `outputs/results/`:
 - `model_comparison.png`
 - `historical_win_rates.png`
 
-## License
-
-MIT
+## Author
+Chetan Sahu
