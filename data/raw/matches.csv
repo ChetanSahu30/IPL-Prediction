@@ -1,0 +1,1147 @@
+id,season,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,venue,city,stage
+1,2008,KKR,RCB,RCB,field,KKR,140,0,M Chinnaswamy Stadium,Bangalore,Unknown
+2,2008,CSK,PBKS,CSK,bat,CSK,33,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+3,2008,RR,DC,RR,bat,DC,0,9,Feroz Shah Kotla,Delhi,Unknown
+4,2008,MI,RCB,MI,bat,RCB,0,5,Wankhede Stadium,Mumbai,Unknown
+5,2008,DC_OLD,KKR,DC_OLD,bat,KKR,0,5,Eden Gardens,Kolkata,Unknown
+6,2008,PBKS,RR,PBKS,bat,RR,0,6,Sawai Mansingh Stadium,Jaipur,Unknown
+7,2008,DC_OLD,DC,DC_OLD,bat,DC,0,9,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+8,2008,CSK,MI,MI,field,CSK,6,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+9,2008,DC_OLD,RR,RR,field,RR,0,3,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+10,2008,PBKS,MI,MI,field,PBKS,66,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+11,2008,RCB,RR,RR,field,RR,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+12,2008,KKR,CSK,KKR,bat,CSK,0,9,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+13,2008,MI,DC_OLD,DC_OLD,field,DC_OLD,0,10,Dr DY Patil Sports Academy,Mumbai,Unknown
+14,2008,DC,PBKS,DC,bat,PBKS,0,4,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+15,2008,CSK,RCB,CSK,bat,CSK,13,0,M Chinnaswamy Stadium,Bangalore,Unknown
+16,2008,KKR,MI,KKR,bat,MI,0,7,Eden Gardens,Kolkata,Unknown
+17,2008,DC,RCB,RCB,field,DC,10,0,Feroz Shah Kotla,Delhi,Unknown
+18,2008,DC_OLD,PBKS,PBKS,field,PBKS,0,7,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+19,2008,RR,KKR,RR,bat,RR,45,0,Sawai Mansingh Stadium,Jaipur,Unknown
+20,2008,CSK,DC,CSK,bat,DC,0,8,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+21,2008,PBKS,KKR,PBKS,bat,PBKS,9,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+22,2008,RCB,DC_OLD,DC_OLD,field,RCB,3,0,M Chinnaswamy Stadium,Bangalore,Unknown
+23,2008,MI,DC,DC,field,MI,29,0,Dr DY Patil Sports Academy,Mumbai,Unknown
+24,2008,CSK,RR,CSK,bat,RR,0,8,Sawai Mansingh Stadium,Jaipur,Unknown
+25,2008,RCB,PBKS,PBKS,field,PBKS,0,6,M Chinnaswamy Stadium,Bangalore,Unknown
+26,2008,CSK,DC_OLD,DC_OLD,field,DC_OLD,0,7,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+27,2008,RR,MI,MI,field,MI,0,7,Dr DY Patil Sports Academy,Mumbai,Unknown
+28,2008,DC,CSK,CSK,field,CSK,0,4,Feroz Shah Kotla,Delhi,Unknown
+29,2008,KKR,RCB,KKR,bat,KKR,5,0,Eden Gardens,Kolkata,Unknown
+30,2008,DC_OLD,RR,RR,field,RR,0,8,Sawai Mansingh Stadium,Jaipur,Unknown
+31,2008,CSK,PBKS,PBKS,field,CSK,18,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+32,2008,KKR,DC_OLD,KKR,bat,KKR,23,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+33,2008,DC,RR,RR,field,RR,0,3,Sawai Mansingh Stadium,Jaipur,Unknown
+34,2008,RCB,PBKS,RCB,bat,PBKS,0,9,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+35,2008,KKR,DC,KKR,bat,KKR,23,0,Eden Gardens,Kolkata,Unknown
+36,2008,CSK,MI,MI,field,MI,0,9,Wankhede Stadium,Mumbai,Unknown
+37,2008,DC,DC_OLD,DC_OLD,field,DC,12,0,Feroz Shah Kotla,Delhi,Unknown
+38,2008,KKR,MI,MI,field,MI,0,8,Wankhede Stadium,Mumbai,Unknown
+39,2008,DC,PBKS,DC,bat,PBKS,6,0,Feroz Shah Kotla,Delhi,Unknown
+40,2008,RR,RCB,RCB,field,RR,65,0,Sawai Mansingh Stadium,Jaipur,Unknown
+41,2008,MI,DC_OLD,DC_OLD,field,MI,25,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+42,2008,KKR,CSK,KKR,bat,CSK,3,0,Eden Gardens,Kolkata,Unknown
+43,2008,RCB,DC,DC,field,DC,0,5,M Chinnaswamy Stadium,Bangalore,Unknown
+44,2008,KKR,RR,RR,field,RR,0,6,Eden Gardens,Kolkata,Unknown
+45,2008,PBKS,MI,MI,field,PBKS,1,0,Wankhede Stadium,Mumbai,Unknown
+46,2008,RCB,CSK,RCB,bat,RCB,14,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+47,2008,DC_OLD,PBKS,PBKS,field,PBKS,0,6,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+48,2008,MI,DC,DC,field,DC,0,5,Feroz Shah Kotla,Delhi,Unknown
+49,2008,RR,CSK,RR,bat,RR,10,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+50,2008,DC_OLD,RCB,DC_OLD,bat,RCB,0,5,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+51,2008,PBKS,KKR,PBKS,bat,KKR,0,3,Eden Gardens,Kolkata,Unknown
+52,2008,MI,RR,RR,field,RR,0,5,Sawai Mansingh Stadium,Jaipur,Unknown
+53,2008,DC_OLD,CSK,DC_OLD,bat,CSK,0,7,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+54,2008,RCB,MI,MI,field,MI,0,9,M Chinnaswamy Stadium,Bangalore,Unknown
+55,2008,PBKS,RR,RR,field,PBKS,41,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+56,2008,RR,DC,DC,field,RR,105,0,Wankhede Stadium,Mumbai,Semi Final
+57,2008,PBKS,CSK,PBKS,bat,CSK,0,9,Wankhede Stadium,Mumbai,Semi Final
+58,2008,CSK,RR,RR,field,RR,0,3,Dr DY Patil Sports Academy,Mumbai,Final
+59,2009,MI,CSK,CSK,field,MI,19,0,Newlands,Cape Town,Unknown
+60,2009,RCB,RR,RCB,bat,RCB,75,0,Newlands,Cape Town,Unknown
+61,2009,PBKS,DC,DC,field,DC,0,10,Newlands,Cape Town,Unknown
+62,2009,KKR,DC_OLD,KKR,bat,DC_OLD,0,8,Newlands,Cape Town,Unknown
+63,2009,CSK,RCB,CSK,bat,CSK,92,0,St George's Park,Port Elizabeth,Unknown
+64,2009,PBKS,KKR,KKR,field,KKR,11,0,Kingsmead,Durban,Unknown
+65,2009,DC_OLD,RCB,DC_OLD,bat,DC_OLD,24,0,Newlands,Cape Town,Unknown
+66,2009,DC,CSK,DC,bat,DC,9,0,Kingsmead,Durban,Unknown
+67,2009,RCB,PBKS,RCB,bat,PBKS,0,7,Kingsmead,Durban,Unknown
+68,2009,DC_OLD,MI,DC_OLD,bat,DC_OLD,12,0,Kingsmead,Durban,Unknown
+69,2009,RCB,DC,RCB,bat,DC,0,6,St George's Park,Port Elizabeth,Unknown
+70,2009,PBKS,RR,PBKS,bat,PBKS,27,0,Newlands,Cape Town,Unknown
+71,2009,CSK,DC_OLD,DC_OLD,field,DC_OLD,0,6,Kingsmead,Durban,Unknown
+72,2009,MI,KKR,MI,bat,MI,92,0,St George's Park,Port Elizabeth,Unknown
+73,2009,DC,RR,DC,bat,RR,0,5,SuperSport Park,Centurion,Unknown
+74,2009,KKR,RCB,KKR,bat,RCB,0,5,Kingsmead,Durban,Unknown
+75,2009,PBKS,MI,PBKS,bat,PBKS,3,0,Kingsmead,Durban,Unknown
+76,2009,DC_OLD,DC,DC,field,DC,0,6,SuperSport Park,Centurion,Unknown
+77,2009,CSK,RR,RR,field,CSK,38,0,SuperSport Park,Centurion,Unknown
+78,2009,MI,KKR,MI,bat,MI,9,0,Buffalo Park,East London,Unknown
+79,2009,RCB,PBKS,RCB,bat,RCB,8,0,Kingsmead,Durban,Unknown
+80,2009,DC_OLD,RR,DC_OLD,bat,RR,0,3,St George's Park,Port Elizabeth,Unknown
+81,2009,CSK,DC,DC,field,CSK,18,0,New Wanderers Stadium,Johannesburg,Unknown
+82,2009,KKR,PBKS,KKR,bat,PBKS,0,6,St George's Park,Port Elizabeth,Unknown
+83,2009,MI,RCB,MI,bat,RCB,0,9,New Wanderers Stadium,Johannesburg,Unknown
+84,2009,CSK,DC_OLD,CSK,bat,CSK,78,0,Buffalo Park,East London,Unknown
+85,2009,RR,PBKS,PBKS,field,RR,78,0,Kingsmead,Durban,Unknown
+86,2009,KKR,DC,KKR,bat,DC,0,9,Kingsmead,Durban,Unknown
+87,2009,DC_OLD,MI,DC_OLD,bat,DC_OLD,19,0,SuperSport Park,Centurion,Unknown
+88,2009,RCB,RR,RR,field,RR,0,7,SuperSport Park,Centurion,Unknown
+89,2009,CSK,PBKS,CSK,bat,CSK,12,0,SuperSport Park,Centurion,Unknown
+90,2009,MI,DC,MI,bat,DC,0,7,Buffalo Park,East London,Unknown
+91,2009,DC_OLD,PBKS,PBKS,field,PBKS,0,3,De Beers Diamond Oval,Kimberley,Unknown
+92,2009,RR,CSK,RR,bat,CSK,0,7,De Beers Diamond Oval,Kimberley,Unknown
+93,2009,MI,RCB,MI,bat,MI,16,0,St George's Park,Port Elizabeth,Unknown
+94,2009,KKR,DC,DC,field,DC,0,7,New Wanderers Stadium,Johannesburg,Unknown
+95,2009,DC_OLD,RR,DC_OLD,bat,DC_OLD,53,0,De Beers Diamond Oval,Kimberley,Unknown
+96,2009,KKR,RCB,RCB,field,RCB,0,6,SuperSport Park,Centurion,Unknown
+97,2009,PBKS,MI,PBKS,bat,MI,0,8,SuperSport Park,Centurion,Unknown
+98,2009,DC,DC_OLD,DC_OLD,field,DC,12,0,Kingsmead,Durban,Unknown
+99,2009,CSK,RCB,CSK,bat,RCB,0,2,Kingsmead,Durban,Unknown
+100,2009,RR,MI,RR,bat,RR,2,0,Kingsmead,Durban,Unknown
+101,2009,DC,PBKS,PBKS,field,PBKS,0,6,OUTsurance Oval,Bloemfontein,Unknown
+102,2009,MI,CSK,MI,bat,CSK,0,7,St George's Park,Port Elizabeth,Unknown
+103,2009,KKR,DC_OLD,DC_OLD,field,DC_OLD,0,6,New Wanderers Stadium,Johannesburg,Unknown
+104,2009,PBKS,DC_OLD,DC_OLD,field,PBKS,1,0,New Wanderers Stadium,Johannesburg,Unknown
+105,2009,DC,RR,DC,bat,DC,14,0,OUTsurance Oval,Bloemfontein,Unknown
+106,2009,CSK,KKR,CSK,bat,KKR,0,7,SuperSport Park,Centurion,Unknown
+107,2009,DC,RCB,DC,bat,RCB,0,7,New Wanderers Stadium,Johannesburg,Unknown
+108,2009,RR,KKR,KKR,field,KKR,0,4,Kingsmead,Durban,Unknown
+109,2009,CSK,PBKS,CSK,bat,CSK,24,0,Kingsmead,Durban,Unknown
+110,2009,MI,DC,DC,field,DC,0,4,SuperSport Park,Centurion,Unknown
+111,2009,RCB,DC_OLD,RCB,bat,RCB,12,0,SuperSport Park,Centurion,Unknown
+112,2009,DC,DC_OLD,DC_OLD,field,DC_OLD,0,6,SuperSport Park,Centurion,Semi Final
+113,2009,CSK,RCB,RCB,field,RCB,0,6,New Wanderers Stadium,Johannesburg,Semi Final
+114,2009,DC_OLD,RCB,RCB,field,DC_OLD,6,0,New Wanderers Stadium,Johannesburg,Final
+115,2010,KKR,DC_OLD,DC_OLD,field,KKR,11,0,Dr DY Patil Sports Academy,Mumbai,Unknown
+116,2010,MI,RR,MI,bat,MI,4,0,Brabourne Stadium,Mumbai,Unknown
+117,2010,PBKS,DC,DC,field,DC,0,5,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+118,2010,RCB,KKR,KKR,field,KKR,0,7,Eden Gardens,Kolkata,Unknown
+119,2010,DC_OLD,CSK,DC_OLD,bat,DC_OLD,31,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+120,2010,RR,DC,DC,field,DC,0,6,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+121,2010,PBKS,RCB,PBKS,bat,RCB,0,8,M Chinnaswamy Stadium,Bangalore,Unknown
+122,2010,CSK,KKR,CSK,bat,CSK,55,0,Eden Gardens,Kolkata,Unknown
+123,2010,MI,DC,DC,field,MI,98,0,Feroz Shah Kotla,Delhi,Unknown
+124,2010,RR,RCB,RCB,field,RCB,0,10,M Chinnaswamy Stadium,Bangalore,Unknown
+125,2010,DC,CSK,DC,bat,CSK,0,5,Feroz Shah Kotla,Delhi,Unknown
+126,2010,DC_OLD,PBKS,PBKS,field,DC_OLD,6,0,Barabati Stadium,Cuttack,Unknown
+127,2010,RR,KKR,RR,bat,RR,34,0,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+128,2010,MI,RCB,MI,bat,RCB,0,7,Brabourne Stadium,Mumbai,Unknown
+129,2010,DC_OLD,DC,DC_OLD,bat,DC_OLD,10,0,Barabati Stadium,Cuttack,Unknown
+130,2010,KKR,MI,KKR,bat,MI,0,7,Brabourne Stadium,Mumbai,Unknown
+131,2010,RCB,CSK,CSK,field,RCB,36,0,M Chinnaswamy Stadium,Bangalore,Unknown
+132,2010,RR,PBKS,PBKS,field,RR,31,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+133,2010,CSK,MI,MI,field,MI,0,5,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+134,2010,DC,RCB,RCB,field,DC,17,0,M Chinnaswamy Stadium,Bangalore,Unknown
+135,2010,DC_OLD,RR,DC_OLD,bat,RR,0,8,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+136,2010,KKR,PBKS,KKR,bat,KKR,39,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+137,2010,RR,CSK,RR,bat,RR,17,0,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+138,2010,MI,DC_OLD,DC_OLD,field,MI,41,0,Dr DY Patil Sports Academy,Mumbai,Unknown
+139,2010,DC,KKR,DC,bat,DC,40,0,Feroz Shah Kotla,Delhi,Unknown
+140,2010,PBKS,MI,MI,field,MI,0,4,Brabourne Stadium,Mumbai,Unknown
+141,2010,RCB,CSK,RCB,bat,CSK,0,5,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+142,2010,DC,RR,DC,bat,DC,67,0,Feroz Shah Kotla,Delhi,Unknown
+143,2010,KKR,DC_OLD,KKR,bat,KKR,24,0,Eden Gardens,Kolkata,Unknown
+144,2010,PBKS,RCB,PBKS,bat,RCB,0,6,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+145,2010,CSK,RR,CSK,bat,CSK,23,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+146,2010,MI,DC_OLD,MI,bat,MI,63,0,Brabourne Stadium,Mumbai,Unknown
+147,2010,KKR,PBKS,KKR,bat,PBKS,0,8,Eden Gardens,Kolkata,Unknown
+148,2010,DC,RCB,DC,bat,DC,37,0,Feroz Shah Kotla,Delhi,Unknown
+149,2010,RR,DC_OLD,RR,bat,RR,2,0,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Unknown
+150,2010,CSK,MI,CSK,bat,CSK,24,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+151,2010,PBKS,RR,PBKS,bat,RR,0,9,Sawai Mansingh Stadium,Jaipur,Unknown
+152,2010,KKR,DC,KKR,bat,KKR,14,0,Eden Gardens,Kolkata,Unknown
+153,2010,RCB,DC_OLD,DC_OLD,field,DC_OLD,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+154,2010,MI,PBKS,MI,bat,PBKS,0,6,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+155,2010,CSK,DC_OLD,CSK,bat,DC_OLD,0,6,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Unknown
+156,2010,KKR,RCB,RCB,field,RCB,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+157,2010,DC,PBKS,DC,bat,PBKS,0,7,Feroz Shah Kotla,Delhi,Unknown
+158,2010,MI,RR,RR,field,MI,37,0,Sawai Mansingh Stadium,Jaipur,Unknown
+159,2010,DC_OLD,RCB,RCB,field,DC_OLD,13,0,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Unknown
+160,2010,MI,DC,MI,bat,MI,39,0,Brabourne Stadium,Mumbai,Unknown
+161,2010,KKR,CSK,KKR,bat,CSK,0,9,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+162,2010,RR,RCB,RR,bat,RCB,0,5,Sawai Mansingh Stadium,Jaipur,Unknown
+163,2010,CSK,DC,CSK,bat,DC,0,6,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+164,2010,PBKS,DC_OLD,DC_OLD,field,DC_OLD,0,5,Himachal Pradesh Cricket Association Stadium,Dharamsala,Unknown
+165,2010,MI,RCB,RCB,field,MI,57,0,M Chinnaswamy Stadium,Bangalore,Unknown
+166,2010,RR,KKR,RR,bat,KKR,0,8,Eden Gardens,Kolkata,Unknown
+167,2010,PBKS,CSK,CSK,field,CSK,0,6,Himachal Pradesh Cricket Association Stadium,Dharamsala,Unknown
+168,2010,DC_OLD,DC,DC_OLD,bat,DC_OLD,11,0,Feroz Shah Kotla,Delhi,Unknown
+169,2010,MI,KKR,MI,bat,KKR,0,9,Eden Gardens,Kolkata,Unknown
+170,2010,MI,RCB,MI,bat,MI,35,0,Dr DY Patil Sports Academy,Mumbai,Semi Final
+171,2010,CSK,DC_OLD,CSK,bat,CSK,38,0,Dr DY Patil Sports Academy,Mumbai,Semi Final
+172,2010,DC_OLD,RCB,DC_OLD,bat,RCB,0,9,Dr DY Patil Sports Academy,Mumbai,3rd Place Play-Off
+173,2010,CSK,MI,CSK,bat,CSK,22,0,Dr DY Patil Sports Academy,Mumbai,Final
+174,2011,CSK,KKR,CSK,bat,CSK,2,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+175,2011,DC_OLD,RR,RR,field,RR,0,8,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+176,2011,KTK,RCB,KTK,bat,RCB,0,6,Nehru Stadium,Kochi,Unknown
+177,2011,DC,MI,DC,bat,MI,0,8,Feroz Shah Kotla,Delhi,Unknown
+178,2011,PBKS,PW,PBKS,bat,PW,0,7,Dr DY Patil Sports Academy,Mumbai,Unknown
+179,2011,KKR,DC_OLD,KKR,bat,KKR,9,0,Eden Gardens,Kolkata,Unknown
+180,2011,DC,RR,DC,bat,RR,0,6,Sawai Mansingh Stadium,Jaipur,Unknown
+181,2011,RCB,MI,MI,field,MI,0,9,M Chinnaswamy Stadium,Bangalore,Unknown
+182,2011,CSK,PBKS,PBKS,field,PBKS,0,6,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+183,2011,KTK,PW,KTK,bat,PW,0,4,Dr DY Patil Sports Academy,Mumbai,Unknown
+184,2011,DC_OLD,RCB,RCB,field,DC_OLD,33,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+185,2011,RR,KKR,KKR,field,KKR,0,9,Sawai Mansingh Stadium,Jaipur,Unknown
+186,2011,MI,KTK,KTK,field,KTK,0,8,Wankhede Stadium,Mumbai,Unknown
+187,2011,CSK,RCB,CSK,bat,CSK,21,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+188,2011,DC_OLD,PBKS,PBKS,field,PBKS,0,8,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+189,2011,PW,DC,DC,field,DC,0,3,Dr DY Patil Sports Academy,Mumbai,Unknown
+190,2011,RR,KKR,KKR,field,KKR,0,8,Eden Gardens,Kolkata,Unknown
+191,2011,CSK,KTK,KTK,field,KTK,0,7,Nehru Stadium,Kochi,Unknown
+192,2011,DC_OLD,DC,DC_OLD,bat,DC_OLD,16,0,Feroz Shah Kotla,Delhi,Unknown
+193,2011,PW,MI,PW,bat,MI,0,7,Wankhede Stadium,Mumbai,Unknown
+194,2011,KTK,KKR,KKR,field,KTK,6,0,Eden Gardens,Kolkata,Unknown
+195,2011,PBKS,RR,RR,field,PBKS,48,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+196,2011,MI,CSK,CSK,field,MI,8,0,Wankhede Stadium,Mumbai,Unknown
+197,2011,KKR,RCB,RCB,field,RCB,0,9,Eden Gardens,Kolkata,Unknown
+198,2011,DC,PBKS,PBKS,field,DC,29,0,Feroz Shah Kotla,Delhi,Unknown
+199,2011,MI,DC_OLD,DC_OLD,field,MI,37,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+200,2011,KTK,RR,RR,field,RR,0,8,Sawai Mansingh Stadium,Jaipur,Unknown
+201,2011,CSK,PW,PW,field,CSK,25,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+202,2011,DC,RCB,RCB,field,RCB,0,3,Feroz Shah Kotla,Delhi,Unknown
+203,2011,PW,CSK,PW,bat,CSK,0,8,Dr DY Patil Sports Academy,Mumbai,Unknown
+204,2011,DC_OLD,KTK,KTK,field,DC_OLD,55,0,Nehru Stadium,Kochi,Unknown
+205,2011,KKR,DC,DC,field,KKR,17,0,Feroz Shah Kotla,Delhi,Unknown
+206,2011,MI,RR,RR,field,RR,0,7,Sawai Mansingh Stadium,Jaipur,Unknown
+207,2011,RCB,PW,PW,field,RCB,26,0,M Chinnaswamy Stadium,Bangalore,Unknown
+208,2011,DC,KTK,DC,bat,DC,38,0,Nehru Stadium,Kochi,Unknown
+209,2011,PBKS,KKR,KKR,field,KKR,0,8,Eden Gardens,Kolkata,Unknown
+210,2011,PW,RR,RR,field,RR,0,6,Sawai Mansingh Stadium,Jaipur,Unknown
+211,2011,CSK,DC_OLD,CSK,bat,CSK,19,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+212,2011,MI,PBKS,PBKS,field,MI,23,0,Wankhede Stadium,Mumbai,Unknown
+213,2011,DC,KTK,KTK,field,KTK,0,7,Feroz Shah Kotla,Delhi,Unknown
+214,2011,KKR,DC_OLD,DC_OLD,field,KKR,20,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+215,2011,RR,CSK,RR,bat,CSK,0,8,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+216,2011,MI,PW,PW,field,MI,21,0,Dr DY Patil Sports Academy,Mumbai,Unknown
+217,2011,KTK,KKR,KKR,field,KTK,17,0,Nehru Stadium,Kochi,Unknown
+218,2011,DC_OLD,DC,DC,field,DC,0,4,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+219,2011,RCB,PBKS,PBKS,field,RCB,85,0,M Chinnaswamy Stadium,Bangalore,Unknown
+220,2011,CSK,KKR,CSK,bat,KKR,10,0,Eden Gardens,Kolkata,Unknown
+221,2011,MI,DC,DC,field,MI,32,0,Wankhede Stadium,Mumbai,Unknown
+222,2011,KTK,RCB,KTK,bat,RCB,0,9,M Chinnaswamy Stadium,Bangalore,Unknown
+223,2011,PBKS,PW,PBKS,bat,PW,0,5,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+224,2011,CSK,RR,RR,field,CSK,63,0,Sawai Mansingh Stadium,Jaipur,Unknown
+225,2011,DC_OLD,PW,DC_OLD,bat,PW,0,6,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+226,2011,PBKS,MI,MI,field,PBKS,76,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+227,2011,RR,RCB,RCB,field,RCB,0,9,Sawai Mansingh Stadium,Jaipur,Unknown
+228,2011,CSK,DC,CSK,bat,CSK,18,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+229,2011,KTK,PBKS,PBKS,field,PBKS,0,6,Holkar Cricket Stadium,Indore,Unknown
+230,2011,KKR,RCB,RCB,field,RCB,0,4,M Chinnaswamy Stadium,Bangalore,Unknown
+231,2011,DC_OLD,MI,DC_OLD,bat,DC_OLD,10,0,Wankhede Stadium,Mumbai,Unknown
+232,2011,PBKS,DC,DC,field,PBKS,29,0,Himachal Pradesh Cricket Association Stadium,Dharamsala,Unknown
+233,2011,RR,KTK,KTK,field,KTK,0,8,Holkar Cricket Stadium,Indore,Unknown
+234,2011,PW,DC_OLD,DC_OLD,field,DC_OLD,0,6,Dr DY Patil Sports Academy,Mumbai,Unknown
+235,2011,PBKS,RCB,PBKS,bat,PBKS,111,0,Himachal Pradesh Cricket Association Stadium,Dharamsala,Unknown
+236,2011,CSK,KTK,CSK,bat,CSK,11,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+237,2011,PW,KKR,KKR,field,KKR,0,7,Dr DY Patil Sports Academy,Mumbai,Unknown
+238,2011,MI,RR,MI,bat,RR,0,10,Wankhede Stadium,Mumbai,Unknown
+239,2011,DC_OLD,PBKS,PBKS,field,DC_OLD,82,0,Himachal Pradesh Cricket Association Stadium,Dharamsala,Unknown
+240,2011,CSK,RCB,RCB,field,RCB,0,8,M Chinnaswamy Stadium,Bangalore,Unknown
+241,2011,KKR,MI,MI,field,MI,0,5,Eden Gardens,Kolkata,Unknown
+242,2011,RCB,CSK,CSK,field,CSK,0,6,Wankhede Stadium,Mumbai,Qualifier 1
+243,2011,KKR,MI,MI,field,MI,0,4,Wankhede Stadium,Mumbai,Elimination Final
+244,2011,RCB,MI,MI,field,RCB,43,0,"MA Chidambaram Stadium, Chepauk",Chennai,Qualifier 2
+245,2011,CSK,RCB,CSK,bat,CSK,58,0,"MA Chidambaram Stadium, Chepauk",Chennai,Final
+246,2012,CSK,MI,MI,field,MI,0,8,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+247,2012,KKR,DC,DC,field,DC,0,8,Eden Gardens,Kolkata,Unknown
+248,2012,PW,MI,MI,field,PW,28,0,Wankhede Stadium,Mumbai,Unknown
+249,2012,RR,PBKS,PBKS,field,RR,31,0,Sawai Mansingh Stadium,Jaipur,Unknown
+250,2012,RCB,DC,DC,field,RCB,20,0,M Chinnaswamy Stadium,Bangalore,Unknown
+251,2012,CSK,DC_OLD,DC_OLD,field,CSK,74,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+252,2012,RR,KKR,KKR,field,RR,22,0,Sawai Mansingh Stadium,Jaipur,Unknown
+253,2012,PW,PBKS,PW,bat,PW,22,0,Subrata Roy Sahara Stadium,Pune,Unknown
+254,2012,DC_OLD,MI,DC_OLD,bat,MI,0,5,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+255,2012,KKR,RCB,RCB,field,KKR,42,0,M Chinnaswamy Stadium,Bangalore,Unknown
+256,2012,CSK,DC,DC,field,DC,0,8,Feroz Shah Kotla,Delhi,Unknown
+257,2012,MI,RR,RR,field,MI,27,0,Wankhede Stadium,Mumbai,Unknown
+258,2012,RCB,CSK,RCB,bat,CSK,0,5,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+259,2012,PW,PBKS,PBKS,field,PBKS,0,7,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+260,2012,RR,KKR,RR,bat,KKR,0,5,Eden Gardens,Kolkata,Unknown
+261,2012,CSK,PW,CSK,bat,PW,0,7,Subrata Roy Sahara Stadium,Pune,Unknown
+262,2012,PBKS,KKR,KKR,field,PBKS,2,0,Eden Gardens,Kolkata,Unknown
+263,2012,RR,RCB,RR,bat,RR,59,0,M Chinnaswamy Stadium,Bangalore,Unknown
+264,2012,MI,DC,DC,field,DC,0,7,Wankhede Stadium,Mumbai,Unknown
+265,2012,DC_OLD,RR,DC_OLD,bat,RR,0,5,Sawai Mansingh Stadium,Jaipur,Unknown
+266,2012,PW,RCB,PW,bat,RCB,0,6,M Chinnaswamy Stadium,Bangalore,Unknown
+267,2012,PBKS,KKR,PBKS,bat,KKR,0,8,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+268,2012,DC_OLD,DC,DC_OLD,bat,DC,0,5,Feroz Shah Kotla,Delhi,Unknown
+269,2012,CSK,PW,PW,field,CSK,13,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+270,2012,PBKS,RCB,RCB,field,RCB,0,5,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+271,2012,RR,CSK,RR,bat,CSK,0,7,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+272,2012,PW,DC,DC,field,PW,20,0,Feroz Shah Kotla,Delhi,Unknown
+273,2012,MI,PBKS,MI,bat,PBKS,0,6,Wankhede Stadium,Mumbai,Unknown
+274,2012,DC_OLD,KKR,KKR,field,KKR,0,5,Barabati Stadium,Cuttack,Unknown
+275,2012,RCB,RR,RR,field,RCB,46,0,Sawai Mansingh Stadium,Jaipur,Unknown
+276,2012,PW,DC,PW,bat,DC,0,8,Subrata Roy Sahara Stadium,Pune,Unknown
+277,2012,PBKS,MI,PBKS,bat,MI,0,4,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+278,2012,DC_OLD,PW,DC_OLD,bat,DC_OLD,18,0,Subrata Roy Sahara Stadium,Pune,Unknown
+279,2012,DC,MI,MI,field,DC,37,0,Feroz Shah Kotla,Delhi,Unknown
+280,2012,PBKS,CSK,PBKS,bat,PBKS,7,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+281,2012,KKR,RCB,KKR,bat,KKR,47,0,Eden Gardens,Kolkata,Unknown
+282,2012,DC,RR,DC,bat,DC,1,0,Feroz Shah Kotla,Delhi,Unknown
+283,2012,DC_OLD,MI,MI,field,MI,0,5,Wankhede Stadium,Mumbai,Unknown
+284,2012,CSK,KKR,CSK,bat,KKR,0,5,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+285,2012,DC_OLD,PW,DC_OLD,bat,DC_OLD,13,0,Barabati Stadium,Cuttack,Unknown
+286,2012,RR,DC,RR,bat,DC,0,6,Sawai Mansingh Stadium,Jaipur,Unknown
+287,2012,RCB,PBKS,PBKS,field,PBKS,0,4,M Chinnaswamy Stadium,Bangalore,Unknown
+288,2012,MI,PW,MI,bat,MI,1,0,Subrata Roy Sahara Stadium,Pune,Unknown
+289,2012,CSK,DC_OLD,CSK,bat,CSK,10,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+290,2012,KKR,PW,KKR,bat,KKR,7,0,Eden Gardens,Kolkata,Unknown
+291,2012,RR,PBKS,RR,bat,RR,43,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+292,2012,CSK,MI,MI,field,MI,0,2,Wankhede Stadium,Mumbai,Unknown
+293,2012,DC_OLD,RCB,RCB,field,RCB,0,5,M Chinnaswamy Stadium,Bangalore,Unknown
+294,2012,DC,KKR,DC,bat,KKR,0,6,Feroz Shah Kotla,Delhi,Unknown
+295,2012,PW,RR,PW,bat,RR,0,7,Subrata Roy Sahara Stadium,Pune,Unknown
+296,2012,PBKS,DC_OLD,DC_OLD,field,PBKS,25,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+297,2012,MI,RCB,RCB,field,RCB,0,9,Wankhede Stadium,Mumbai,Unknown
+298,2012,DC_OLD,DC,DC_OLD,bat,DC,0,9,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+299,2012,RR,CSK,CSK,field,CSK,0,4,Sawai Mansingh Stadium,Jaipur,Unknown
+300,2012,RCB,PW,PW,field,RCB,35,0,Subrata Roy Sahara Stadium,Pune,Unknown
+301,2012,MI,KKR,MI,bat,MI,27,0,Eden Gardens,Kolkata,Unknown
+302,2012,DC,CSK,CSK,field,CSK,0,9,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+303,2012,RR,PW,RR,bat,RR,45,0,Sawai Mansingh Stadium,Jaipur,Unknown
+304,2012,DC_OLD,PBKS,DC_OLD,bat,PBKS,0,4,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+305,2012,RCB,MI,MI,field,MI,0,5,M Chinnaswamy Stadium,Bangalore,Unknown
+306,2012,KKR,CSK,CSK,field,CSK,0,5,Eden Gardens,Kolkata,Unknown
+307,2012,PBKS,DC,PBKS,bat,DC,0,5,Feroz Shah Kotla,Delhi,Unknown
+308,2012,KKR,MI,MI,field,KKR,32,0,Wankhede Stadium,Mumbai,Unknown
+309,2012,CSK,PBKS,PBKS,field,PBKS,0,6,Himachal Pradesh Cricket Association Stadium,Dharamsala,Unknown
+310,2012,RCB,DC,DC,field,RCB,21,0,Feroz Shah Kotla,Delhi,Unknown
+311,2012,RR,DC_OLD,RR,bat,DC_OLD,0,5,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+312,2012,PBKS,DC,DC,field,DC,0,6,Himachal Pradesh Cricket Association Stadium,Dharamsala,Unknown
+313,2012,KKR,PW,KKR,bat,KKR,34,0,Subrata Roy Sahara Stadium,Pune,Unknown
+314,2012,DC_OLD,RCB,RCB,field,DC_OLD,9,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+315,2012,RR,MI,RR,bat,MI,0,10,Sawai Mansingh Stadium,Jaipur,Unknown
+316,2012,KKR,DC,KKR,bat,KKR,18,0,Subrata Roy Sahara Stadium,Pune,Qualifier 1
+317,2012,CSK,MI,MI,field,CSK,38,0,M Chinnaswamy Stadium,Bangalore,Elimination Final
+318,2012,CSK,DC,DC,field,CSK,86,0,"MA Chidambaram Stadium, Chepauk",Chennai,Qualifier 2
+319,2012,CSK,KKR,CSK,bat,KKR,0,5,"MA Chidambaram Stadium, Chepauk",Chennai,Final
+320,2013,DC,KKR,KKR,field,KKR,0,6,Eden Gardens,Kolkata,Unknown
+321,2013,RCB,MI,MI,field,RCB,2,0,M Chinnaswamy Stadium,Bangalore,Unknown
+322,2013,SRH,PW,PW,field,SRH,22,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+323,2013,RR,DC,RR,bat,RR,5,0,Feroz Shah Kotla,Delhi,Unknown
+324,2013,MI,CSK,MI,bat,MI,9,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+325,2013,PW,PBKS,PW,bat,PBKS,0,8,Subrata Roy Sahara Stadium,Pune,Unknown
+326,2013,RR,KKR,KKR,field,RR,19,0,Sawai Mansingh Stadium,Jaipur,Unknown
+327,2013,MI,DC,MI,bat,MI,44,0,Wankhede Stadium,Mumbai,Unknown
+328,2013,SRH,RCB,SRH,bat,RCB,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+329,2013,PBKS,CSK,CSK,field,CSK,0,10,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+330,2013,KKR,RCB,RCB,field,RCB,0,8,M Chinnaswamy Stadium,Bangalore,Unknown
+331,2013,RR,PW,RR,bat,PW,0,7,Subrata Roy Sahara Stadium,Pune,Unknown
+332,2013,DC,SRH,DC,bat,SRH,0,3,Feroz Shah Kotla,Delhi,Unknown
+333,2013,MI,PW,MI,bat,MI,41,0,Wankhede Stadium,Mumbai,Unknown
+334,2013,RCB,CSK,CSK,field,CSK,0,4,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+335,2013,KKR,SRH,KKR,bat,KKR,48,0,Eden Gardens,Kolkata,Unknown
+336,2013,PBKS,RR,RR,field,RR,0,6,Sawai Mansingh Stadium,Jaipur,Unknown
+337,2013,PW,CSK,PW,bat,PW,24,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+338,2013,PBKS,KKR,KKR,field,PBKS,4,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+339,2013,SRH,PW,PW,field,SRH,11,0,Maharashtra Cricket Association Stadium,Pune,Unknown
+340,2013,RR,MI,RR,bat,RR,87,0,Sawai Mansingh Stadium,Jaipur,Unknown
+341,2013,CSK,DC,CSK,bat,CSK,86,0,Feroz Shah Kotla,Delhi,Unknown
+342,2013,PBKS,SRH,PBKS,bat,SRH,0,5,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+343,2013,KKR,CSK,KKR,bat,CSK,0,4,Eden Gardens,Kolkata,Unknown
+344,2013,RR,RCB,RCB,field,RCB,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+345,2013,MI,DC,MI,bat,DC,0,9,Feroz Shah Kotla,Delhi,Unknown
+346,2013,PW,PBKS,PBKS,field,PBKS,0,7,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+347,2013,RR,CSK,RR,bat,CSK,0,5,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+348,2013,RCB,PW,PW,field,RCB,130,0,M Chinnaswamy Stadium,Bangalore,Unknown
+349,2013,DC,PBKS,PBKS,field,PBKS,0,5,Feroz Shah Kotla,Delhi,Unknown
+350,2013,KKR,MI,KKR,bat,MI,0,5,Eden Gardens,Kolkata,Unknown
+351,2013,SRH,CSK,SRH,bat,CSK,0,5,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+352,2013,PBKS,KKR,PBKS,bat,KKR,0,6,Eden Gardens,Kolkata,Unknown
+353,2013,SRH,RR,SRH,bat,RR,0,8,Sawai Mansingh Stadium,Jaipur,Unknown
+354,2013,MI,RCB,MI,bat,MI,58,0,Wankhede Stadium,Mumbai,Unknown
+355,2013,CSK,KKR,KKR,field,CSK,14,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+356,2013,DC,PW,PW,field,DC,15,0,Shaheed Veer Narayan Singh International Stadium,Raipur,Unknown
+357,2013,RCB,RR,RR,field,RR,0,4,Sawai Mansingh Stadium,Jaipur,Unknown
+358,2013,MI,PBKS,MI,bat,MI,4,0,Wankhede Stadium,Mumbai,Unknown
+359,2013,CSK,PW,CSK,bat,CSK,37,0,Subrata Roy Sahara Stadium,Pune,Unknown
+360,2013,MI,SRH,MI,bat,SRH,0,7,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+361,2013,KKR,DC,KKR,bat,DC,0,7,Shaheed Veer Narayan Singh International Stadium,Raipur,Unknown
+362,2013,CSK,PBKS,CSK,bat,CSK,15,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+363,2013,RCB,PW,RCB,bat,RCB,17,0,Subrata Roy Sahara Stadium,Pune,Unknown
+364,2013,RR,KKR,RR,bat,KKR,0,8,Eden Gardens,Kolkata,Unknown
+365,2013,DC,SRH,DC,bat,SRH,0,6,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+366,2013,MI,CSK,MI,bat,MI,60,0,Wankhede Stadium,Mumbai,Unknown
+367,2013,PW,RR,PW,bat,RR,0,5,Sawai Mansingh Stadium,Jaipur,Unknown
+368,2013,RCB,PBKS,PBKS,field,PBKS,0,6,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+369,2013,DC,RR,DC,bat,RR,0,9,Sawai Mansingh Stadium,Jaipur,Unknown
+370,2013,MI,KKR,MI,bat,MI,65,0,Wankhede Stadium,Mumbai,Unknown
+371,2013,CSK,SRH,SRH,field,CSK,77,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+372,2013,PBKS,RR,RR,field,RR,0,8,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+373,2013,KKR,PW,KKR,bat,KKR,46,0,Subrata Roy Sahara Stadium,Pune,Unknown
+374,2013,RCB,DC,DC,field,RCB,4,0,Feroz Shah Kotla,Delhi,Unknown
+375,2013,PW,MI,PW,bat,MI,0,5,Subrata Roy Sahara Stadium,Pune,Unknown
+376,2013,SRH,PBKS,PBKS,field,SRH,30,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+377,2013,RCB,KKR,KKR,field,KKR,0,5,JSCA International Stadium Complex,Ranchi,Unknown
+378,2013,CSK,RR,RR,field,RR,0,5,Sawai Mansingh Stadium,Jaipur,Unknown
+379,2013,SRH,MI,SRH,bat,MI,0,7,Wankhede Stadium,Mumbai,Unknown
+380,2013,RCB,PBKS,PBKS,field,PBKS,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+381,2013,CSK,DC,CSK,bat,CSK,33,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+382,2013,PW,KKR,KKR,field,PW,7,0,JSCA International Stadium Complex,Ranchi,Unknown
+383,2013,MI,RR,RR,field,MI,14,0,Wankhede Stadium,Mumbai,Unknown
+384,2013,PBKS,DC,DC,field,PBKS,7,0,Himachal Pradesh Cricket Association Stadium,Dharamsala,Unknown
+385,2013,SRH,RR,SRH,bat,SRH,23,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+386,2013,PBKS,MI,MI,field,PBKS,50,0,Himachal Pradesh Cricket Association Stadium,Dharamsala,Unknown
+387,2013,RCB,CSK,CSK,field,RCB,24,0,M Chinnaswamy Stadium,Bangalore,Unknown
+388,2013,PW,DC,PW,bat,PW,38,0,Subrata Roy Sahara Stadium,Pune,Unknown
+389,2013,KKR,SRH,KKR,bat,SRH,0,5,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+390,2013,CSK,MI,CSK,bat,CSK,48,0,Feroz Shah Kotla,Delhi,Qualifier 1
+391,2013,SRH,RR,SRH,bat,RR,0,4,Feroz Shah Kotla,Delhi,Eliminator
+392,2013,RR,MI,RR,bat,MI,0,4,Eden Gardens,Kolkata,Qualifier 2
+393,2013,MI,CSK,MI,bat,MI,23,0,Eden Gardens,Kolkata,Final
+394,2014,KKR,MI,KKR,bat,KKR,41,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+395,2014,DC,RCB,RCB,field,RCB,0,8,Sharjah Cricket Stadium,Unknown,Unknown
+396,2014,CSK,PBKS,CSK,bat,PBKS,0,6,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+397,2014,SRH,RR,RR,field,RR,0,4,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+398,2014,MI,RCB,RCB,field,RCB,0,7,Dubai International Cricket Stadium,Unknown,Unknown
+399,2014,KKR,DC,KKR,bat,DC,0,4,Dubai International Cricket Stadium,Unknown,Unknown
+400,2014,RR,PBKS,PBKS,field,PBKS,0,7,Sharjah Cricket Stadium,Unknown,Unknown
+401,2014,CSK,DC,CSK,bat,CSK,93,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+402,2014,PBKS,SRH,SRH,field,PBKS,72,0,Sharjah Cricket Stadium,Unknown,Unknown
+403,2014,CSK,RR,RR,field,CSK,7,0,Dubai International Cricket Stadium,Unknown,Unknown
+404,2014,KKR,RCB,RCB,field,KKR,2,0,Sharjah Cricket Stadium,Unknown,Unknown
+405,2014,SRH,DC,SRH,bat,SRH,4,0,Dubai International Cricket Stadium,Unknown,Unknown
+406,2014,MI,CSK,MI,bat,CSK,0,7,Dubai International Cricket Stadium,Unknown,Unknown
+407,2014,RCB,RR,RR,field,RR,0,6,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+408,2014,PBKS,KKR,KKR,field,PBKS,23,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+409,2014,MI,DC,MI,bat,DC,0,6,Sharjah Cricket Stadium,Unknown,Unknown
+410,2014,SRH,CSK,SRH,bat,CSK,0,5,Sharjah Cricket Stadium,Unknown,Unknown
+411,2014,RCB,PBKS,PBKS,field,PBKS,0,5,Dubai International Cricket Stadium,Unknown,Unknown
+412,2014,SRH,MI,MI,field,SRH,15,0,Dubai International Cricket Stadium,Unknown,Unknown
+413,2014,CSK,KKR,CSK,bat,CSK,34,0,JSCA International Stadium Complex,Ranchi,Unknown
+414,2014,PBKS,MI,PBKS,bat,MI,0,5,Wankhede Stadium,Mumbai,Unknown
+415,2014,DC,RR,RR,field,RR,0,7,Feroz Shah Kotla,Delhi,Unknown
+416,2014,SRH,RCB,RCB,field,RCB,0,4,M Chinnaswamy Stadium,Bangalore,Unknown
+417,2014,RR,KKR,KKR,field,RR,10,0,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+418,2014,DC,CSK,CSK,field,CSK,0,8,Feroz Shah Kotla,Delhi,Unknown
+419,2014,MI,RCB,RCB,field,MI,19,0,Wankhede Stadium,Mumbai,Unknown
+420,2014,DC,KKR,DC,bat,KKR,0,8,Feroz Shah Kotla,Delhi,Unknown
+421,2014,PBKS,CSK,CSK,field,PBKS,44,0,Barabati Stadium,Cuttack,Unknown
+422,2014,SRH,RR,RR,field,SRH,32,0,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+423,2014,PBKS,RCB,RCB,field,PBKS,32,0,M Chinnaswamy Stadium,Bangalore,Unknown
+424,2014,DC,SRH,SRH,field,SRH,0,8,Feroz Shah Kotla,Delhi,Unknown
+425,2014,MI,CSK,CSK,field,CSK,0,4,Wankhede Stadium,Mumbai,Unknown
+426,2014,PBKS,KKR,KKR,field,KKR,0,9,Barabati Stadium,Cuttack,Unknown
+427,2014,RCB,RR,RCB,bat,RR,0,5,M Chinnaswamy Stadium,Bangalore,Unknown
+428,2014,SRH,MI,SRH,bat,MI,0,7,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+429,2014,RR,CSK,RR,bat,CSK,0,5,JSCA International Stadium Complex,Ranchi,Unknown
+430,2014,RCB,DC,DC,field,RCB,16,0,M Chinnaswamy Stadium,Bangalore,Unknown
+431,2014,SRH,PBKS,PBKS,field,PBKS,0,6,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+432,2014,MI,KKR,KKR,field,KKR,0,6,Barabati Stadium,Cuttack,Unknown
+433,2014,RR,DC,DC,field,RR,62,0,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+434,2014,CSK,RCB,CSK,bat,RCB,0,5,JSCA International Stadium Complex,Ranchi,Unknown
+435,2014,SRH,KKR,SRH,bat,KKR,0,7,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+436,2014,MI,RR,MI,bat,MI,25,0,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+437,2014,DC,PBKS,PBKS,field,PBKS,0,4,Feroz Shah Kotla,Delhi,Unknown
+438,2014,RCB,SRH,RCB,bat,SRH,0,7,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+439,2014,CSK,KKR,KKR,field,KKR,0,8,Eden Gardens,Kolkata,Unknown
+440,2014,PBKS,MI,MI,field,MI,0,7,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+441,2014,KKR,RCB,RCB,field,KKR,30,0,Eden Gardens,Kolkata,Unknown
+442,2014,CSK,SRH,SRH,field,SRH,0,6,JSCA International Stadium Complex,Ranchi,Unknown
+443,2014,MI,DC,DC,field,MI,15,0,Wankhede Stadium,Mumbai,Unknown
+444,2014,PBKS,RR,RR,field,PBKS,16,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+445,2014,RCB,CSK,CSK,field,CSK,0,8,M Chinnaswamy Stadium,Bangalore,Unknown
+446,2014,SRH,KKR,KKR,field,KKR,0,4,Eden Gardens,Kolkata,Unknown
+447,2014,DC,PBKS,PBKS,field,PBKS,0,7,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+448,2014,RR,MI,MI,field,MI,0,5,Wankhede Stadium,Mumbai,Unknown
+449,2014,KKR,PBKS,PBKS,field,KKR,28,0,Eden Gardens,Kolkata,Qualifier 1
+450,2014,MI,CSK,CSK,field,CSK,0,7,Brabourne Stadium,Mumbai,Eliminator
+451,2014,PBKS,CSK,CSK,field,PBKS,24,0,Wankhede Stadium,Mumbai,Qualifier 2
+452,2014,PBKS,KKR,KKR,field,KKR,0,3,M Chinnaswamy Stadium,Bangalore,Final
+453,2015,MI,KKR,KKR,field,KKR,0,7,Eden Gardens,Kolkata,Unknown
+454,2015,CSK,DC,DC,field,CSK,1,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+455,2015,RR,PBKS,PBKS,field,RR,26,0,Maharashtra Cricket Association Stadium,Pune,Unknown
+456,2015,CSK,SRH,CSK,bat,CSK,45,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+457,2015,KKR,RCB,RCB,field,RCB,0,3,Eden Gardens,Kolkata,Unknown
+458,2015,DC,RR,RR,field,RR,0,3,Feroz Shah Kotla,Delhi,Unknown
+459,2015,PBKS,MI,MI,field,PBKS,18,0,Wankhede Stadium,Mumbai,Unknown
+460,2015,RCB,SRH,SRH,field,SRH,0,8,M Chinnaswamy Stadium,Bangalore,Unknown
+461,2015,MI,RR,MI,bat,RR,0,7,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+462,2015,PBKS,DC,PBKS,bat,DC,0,5,Maharashtra Cricket Association Stadium,Pune,Unknown
+463,2015,SRH,RR,RR,field,RR,0,6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+464,2015,MI,CSK,MI,bat,CSK,0,6,Wankhede Stadium,Mumbai,Unknown
+465,2015,DC,SRH,DC,bat,DC,4,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+466,2015,PBKS,KKR,KKR,field,KKR,0,4,Maharashtra Cricket Association Stadium,Pune,Unknown
+467,2015,CSK,RR,CSK,bat,RR,0,8,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+468,2015,MI,RCB,RCB,field,MI,18,0,M Chinnaswamy Stadium,Bangalore,Unknown
+469,2015,DC,KKR,KKR,field,KKR,0,6,Feroz Shah Kotla,Delhi,Unknown
+470,2015,SRH,KKR,KKR,field,SRH,16,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+471,2015,CSK,RCB,RCB,field,CSK,27,0,M Chinnaswamy Stadium,Bangalore,Unknown
+472,2015,DC,MI,MI,field,DC,37,0,Feroz Shah Kotla,Delhi,Unknown
+473,2015,RR,RCB,RCB,field,RCB,0,9,"Sardar Patel Stadium, Motera",Ahmedabad,Unknown
+474,2015,MI,SRH,MI,bat,MI,20,0,Wankhede Stadium,Mumbai,Unknown
+475,2015,CSK,PBKS,CSK,bat,CSK,97,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+476,2015,DC,RCB,RCB,field,RCB,0,10,Feroz Shah Kotla,Delhi,Unknown
+477,2015,SRH,PBKS,PBKS,field,SRH,20,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+478,2015,CSK,KKR,KKR,field,CSK,2,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+479,2015,CSK,KKR,KKR,field,KKR,0,7,Eden Gardens,Kolkata,Unknown
+480,2015,PBKS,DC,DC,field,DC,0,9,Feroz Shah Kotla,Delhi,Unknown
+481,2015,MI,RR,RR,field,MI,8,0,Wankhede Stadium,Mumbai,Unknown
+482,2015,KKR,RCB,RCB,field,RCB,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+483,2015,SRH,CSK,CSK,field,SRH,22,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+484,2015,MI,PBKS,MI,bat,MI,23,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+485,2015,RR,DC,DC,field,RR,14,0,Brabourne Stadium,Mumbai,Unknown
+486,2015,CSK,RCB,CSK,bat,CSK,24,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+487,2015,KKR,SRH,SRH,field,KKR,35,0,Eden Gardens,Kolkata,Unknown
+488,2015,DC,MI,DC,bat,MI,0,5,Wankhede Stadium,Mumbai,Unknown
+489,2015,RCB,PBKS,PBKS,field,RCB,138,0,M Chinnaswamy Stadium,Bangalore,Unknown
+490,2015,KKR,DC,KKR,bat,KKR,13,0,Eden Gardens,Kolkata,Unknown
+491,2015,SRH,RR,RR,field,SRH,7,0,Brabourne Stadium,Mumbai,Unknown
+492,2015,CSK,MI,CSK,bat,MI,0,6,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+493,2015,PBKS,KKR,PBKS,bat,KKR,0,1,Eden Gardens,Kolkata,Unknown
+494,2015,SRH,DC,SRH,bat,SRH,6,0,Shaheed Veer Narayan Singh International Stadium,Raipur,Unknown
+495,2015,RCB,MI,RCB,bat,RCB,39,0,Wankhede Stadium,Mumbai,Unknown
+496,2015,CSK,RR,CSK,bat,CSK,12,0,"MA Chidambaram Stadium, Chepauk",Chennai,Unknown
+497,2015,SRH,PBKS,SRH,bat,SRH,5,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+498,2015,CSK,DC,CSK,bat,DC,0,6,Shaheed Veer Narayan Singh International Stadium,Raipur,Unknown
+499,2015,PBKS,RCB,RCB,field,PBKS,22,0,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+500,2015,MI,KKR,KKR,field,MI,5,0,Wankhede Stadium,Mumbai,Unknown
+501,2015,SRH,RCB,SRH,bat,RCB,0,6,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+502,2015,PBKS,CSK,PBKS,bat,CSK,0,7,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Unknown
+503,2015,RR,KKR,RR,bat,RR,9,0,Brabourne Stadium,Mumbai,Unknown
+504,2015,SRH,MI,SRH,bat,MI,0,9,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+505,2015,MI,CSK,MI,bat,MI,25,0,Wankhede Stadium,Mumbai,Qualifier 1
+506,2015,RCB,RR,RCB,bat,RCB,71,0,Maharashtra Cricket Association Stadium,Pune,Eliminator
+507,2015,RCB,CSK,CSK,field,CSK,0,3,JSCA International Stadium Complex,Ranchi,Qualifier 2
+508,2015,MI,CSK,CSK,field,MI,41,0,Eden Gardens,Kolkata,Final
+509,2016,MI,RPS,MI,bat,RPS,0,9,Wankhede Stadium,Mumbai,Unknown
+510,2016,DC,KKR,KKR,field,KKR,0,9,Eden Gardens,Kolkata,Unknown
+511,2016,PBKS,GL,GL,field,GL,0,5,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+512,2016,RCB,SRH,SRH,field,RCB,45,0,M Chinnaswamy Stadium,Bangalore,Unknown
+513,2016,KKR,MI,MI,field,MI,0,6,Eden Gardens,Kolkata,Unknown
+514,2016,RPS,GL,RPS,bat,GL,0,7,Saurashtra Cricket Association Stadium,Rajkot,Unknown
+515,2016,PBKS,DC,DC,field,DC,0,8,Feroz Shah Kotla,Delhi,Unknown
+516,2016,SRH,KKR,SRH,bat,KKR,0,8,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+517,2016,MI,GL,GL,field,GL,0,3,Wankhede Stadium,Mumbai,Unknown
+518,2016,RPS,PBKS,RPS,bat,PBKS,0,6,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+519,2016,RCB,DC,DC,field,DC,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+520,2016,MI,SRH,SRH,field,SRH,0,7,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+521,2016,PBKS,KKR,KKR,field,KKR,0,6,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+522,2016,RCB,MI,MI,field,MI,0,6,Wankhede Stadium,Mumbai,Unknown
+523,2016,GL,SRH,SRH,field,SRH,0,10,Saurashtra Cricket Association Stadium,Rajkot,Unknown
+524,2016,RCB,RPS,RPS,field,RCB,13,0,Maharashtra Cricket Association Stadium,Pune,Unknown
+525,2016,DC,MI,MI,field,DC,10,0,Feroz Shah Kotla,Delhi,Unknown
+526,2016,PBKS,SRH,SRH,field,SRH,0,5,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+527,2016,RCB,GL,RCB,bat,GL,0,6,Saurashtra Cricket Association Stadium,Rajkot,Unknown
+528,2016,RPS,KKR,KKR,field,KKR,0,2,Maharashtra Cricket Association Stadium,Pune,Unknown
+529,2016,MI,PBKS,PBKS,field,MI,25,0,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+530,2016,SRH,RPS,RPS,field,RPS,34,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+531,2016,GL,DC,DC,field,GL,1,0,Feroz Shah Kotla,Delhi,Unknown
+532,2016,KKR,MI,MI,field,MI,0,6,Wankhede Stadium,Mumbai,Unknown
+533,2016,RPS,GL,GL,field,GL,0,3,Maharashtra Cricket Association Stadium,Pune,Unknown
+534,2016,DC,KKR,KKR,field,DC,27,0,Feroz Shah Kotla,Delhi,Unknown
+535,2016,SRH,RCB,RCB,field,SRH,15,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+536,2016,PBKS,GL,GL,field,PBKS,23,0,Saurashtra Cricket Association Stadium,Rajkot,Unknown
+537,2016,RPS,MI,MI,field,MI,0,8,Maharashtra Cricket Association Stadium,Pune,Unknown
+538,2016,RCB,KKR,KKR,field,KKR,0,5,M Chinnaswamy Stadium,Bangalore,Unknown
+539,2016,GL,DC,DC,field,DC,0,8,Saurashtra Cricket Association Stadium,Rajkot,Unknown
+540,2016,KKR,PBKS,PBKS,field,KKR,7,0,Eden Gardens,Kolkata,Unknown
+541,2016,DC,RPS,RPS,field,RPS,0,7,Feroz Shah Kotla,Delhi,Unknown
+542,2016,GL,SRH,SRH,field,SRH,0,5,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+543,2016,RPS,RCB,RCB,field,RCB,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+544,2016,PBKS,DC,DC,field,PBKS,9,0,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+545,2016,SRH,MI,MI,field,SRH,85,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+546,2016,KKR,GL,GL,field,GL,0,5,Eden Gardens,Kolkata,Unknown
+547,2016,RCB,PBKS,PBKS,field,RCB,1,0,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+548,2016,SRH,RPS,SRH,bat,SRH,4,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+549,2016,RCB,MI,MI,field,MI,0,6,M Chinnaswamy Stadium,Bangalore,Unknown
+550,2016,SRH,DC,DC,field,DC,0,7,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+551,2016,MI,PBKS,MI,bat,PBKS,0,7,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+552,2016,RCB,GL,GL,field,RCB,144,0,M Chinnaswamy Stadium,Bangalore,Unknown
+553,2016,RPS,KKR,RPS,bat,KKR,0,8,Eden Gardens,Kolkata,Unknown
+554,2016,PBKS,SRH,PBKS,bat,SRH,0,7,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+555,2016,MI,DC,DC,field,MI,80,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+556,2016,KKR,RCB,RCB,field,RCB,0,9,Eden Gardens,Kolkata,Unknown
+557,2016,DC,RPS,RPS,field,RPS,19,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+558,2016,RCB,PBKS,PBKS,field,RCB,82,0,M Chinnaswamy Stadium,Bangalore,Unknown
+559,2016,KKR,GL,GL,field,GL,0,6,Green Park,Kanpur,Unknown
+560,2016,SRH,DC,DC,field,DC,0,6,Shaheed Veer Narayan Singh International Stadium,Raipur,Unknown
+561,2016,PBKS,RPS,PBKS,bat,RPS,0,4,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Unknown
+562,2016,MI,GL,GL,field,GL,0,6,Green Park,Kanpur,Unknown
+563,2016,KKR,SRH,SRH,field,KKR,22,0,Eden Gardens,Kolkata,Unknown
+564,2016,DC,RCB,RCB,field,RCB,0,6,Shaheed Veer Narayan Singh International Stadium,Raipur,Unknown
+565,2016,GL,RCB,RCB,field,RCB,0,4,M Chinnaswamy Stadium,Bangalore,Qualifier 1
+566,2016,SRH,KKR,KKR,field,SRH,22,0,Feroz Shah Kotla,Delhi,Elimination Final
+567,2016,GL,SRH,SRH,field,SRH,0,4,Feroz Shah Kotla,Delhi,Qualifier 2
+568,2016,SRH,RCB,SRH,bat,SRH,8,0,M Chinnaswamy Stadium,Bangalore,Final
+569,2017,SRH,RCB,RCB,field,SRH,35,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+570,2017,MI,RPS,RPS,field,RPS,0,7,Maharashtra Cricket Association Stadium,Pune,Unknown
+571,2017,GL,KKR,KKR,field,KKR,0,10,Saurashtra Cricket Association Stadium,Rajkot,Unknown
+572,2017,RPS,PBKS,PBKS,field,PBKS,0,6,Holkar Cricket Stadium,Indore,Unknown
+573,2017,RCB,DC,RCB,bat,RCB,15,0,M.Chinnaswamy Stadium,Bengaluru,Unknown
+574,2017,GL,SRH,SRH,field,SRH,0,9,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+575,2017,KKR,MI,MI,field,MI,0,4,Wankhede Stadium,Mumbai,Unknown
+576,2017,RCB,PBKS,RCB,bat,PBKS,0,8,Holkar Cricket Stadium,Indore,Unknown
+577,2017,DC,RPS,RPS,field,DC,97,0,Maharashtra Cricket Association Stadium,Pune,Unknown
+578,2017,SRH,MI,MI,field,MI,0,4,Wankhede Stadium,Mumbai,Unknown
+579,2017,PBKS,KKR,KKR,field,KKR,0,8,Eden Gardens,Kolkata,Unknown
+580,2017,RCB,MI,MI,field,MI,0,4,M Chinnaswamy Stadium,Bangalore,Unknown
+581,2017,RPS,GL,GL,field,GL,0,7,Saurashtra Cricket Association Stadium,Rajkot,Unknown
+582,2017,KKR,SRH,SRH,field,KKR,17,0,Eden Gardens,Kolkata,Unknown
+583,2017,DC,PBKS,DC,bat,DC,51,0,Feroz Shah Kotla,Delhi,Unknown
+584,2017,GL,MI,MI,field,MI,0,6,Wankhede Stadium,Mumbai,Unknown
+585,2017,RPS,RCB,RCB,field,RPS,27,0,M Chinnaswamy Stadium,Bangalore,Unknown
+586,2017,DC,KKR,DC,bat,KKR,0,4,Feroz Shah Kotla,Delhi,Unknown
+587,2017,SRH,PBKS,PBKS,field,SRH,5,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+588,2017,RCB,GL,GL,field,RCB,21,0,Saurashtra Cricket Association Stadium,Rajkot,Unknown
+589,2017,SRH,DC,SRH,bat,SRH,15,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+590,2017,PBKS,MI,MI,field,MI,0,8,Holkar Cricket Stadium,Indore,Unknown
+591,2017,KKR,GL,GL,field,GL,0,4,Eden Gardens,Kolkata,Unknown
+592,2017,MI,DC,DC,field,MI,14,0,Wankhede Stadium,Mumbai,Unknown
+593,2017,SRH,RPS,RPS,field,RPS,0,6,Maharashtra Cricket Association Stadium,Pune,Unknown
+594,2017,PBKS,GL,GL,field,PBKS,26,0,Saurashtra Cricket Association Stadium,Rajkot,Unknown
+595,2017,KKR,RCB,RCB,field,KKR,82,0,Eden Gardens,Kolkata,Unknown
+596,2017,RPS,MI,MI,field,RPS,3,0,Wankhede Stadium,Mumbai,Unknown
+597,2017,RPS,KKR,KKR,field,KKR,0,7,Maharashtra Cricket Association Stadium,Pune,Unknown
+598,2017,RCB,GL,GL,field,GL,0,7,M Chinnaswamy Stadium,Bangalore,Unknown
+599,2017,DC,KKR,KKR,field,KKR,0,7,Eden Gardens,Kolkata,Unknown
+600,2017,SRH,PBKS,PBKS,field,SRH,26,0,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+601,2017,RPS,RCB,RCB,field,RPS,61,0,Maharashtra Cricket Association Stadium,Pune,Unknown
+602,2017,DC,PBKS,PBKS,field,PBKS,0,10,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+603,2017,SRH,KKR,KKR,field,SRH,48,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+604,2017,RCB,MI,RCB,bat,MI,0,5,Wankhede Stadium,Mumbai,Unknown
+605,2017,GL,RPS,RPS,field,RPS,0,5,Maharashtra Cricket Association Stadium,Pune,Unknown
+606,2017,SRH,DC,DC,field,DC,0,6,Feroz Shah Kotla,Delhi,Unknown
+607,2017,KKR,RPS,RPS,field,RPS,0,4,Eden Gardens,Kolkata,Unknown
+608,2017,GL,DC,DC,field,DC,0,7,Feroz Shah Kotla,Delhi,Unknown
+609,2017,PBKS,RCB,RCB,field,PBKS,19,0,M Chinnaswamy Stadium,Bangalore,Unknown
+610,2017,RPS,SRH,SRH,field,RPS,12,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+611,2017,MI,DC,DC,field,MI,146,0,Feroz Shah Kotla,Delhi,Unknown
+612,2017,RCB,KKR,KKR,field,KKR,0,6,M Chinnaswamy Stadium,Bangalore,Unknown
+613,2017,PBKS,GL,GL,field,GL,0,6,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+614,2017,MI,SRH,MI,bat,SRH,0,7,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Unknown
+615,2017,PBKS,KKR,KKR,field,PBKS,14,0,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Unknown
+616,2017,GL,DC,DC,field,DC,0,2,Green Park,Kanpur,Unknown
+617,2017,PBKS,MI,MI,field,PBKS,7,0,Wankhede Stadium,Mumbai,Unknown
+618,2017,DC,RPS,DC,bat,DC,7,0,Feroz Shah Kotla,Delhi,Unknown
+619,2017,GL,SRH,SRH,field,SRH,0,8,Green Park,Kanpur,Unknown
+620,2017,MI,KKR,KKR,field,MI,9,0,Eden Gardens,Kolkata,Unknown
+621,2017,PBKS,RPS,RPS,field,RPS,0,9,Maharashtra Cricket Association Stadium,Pune,Unknown
+622,2017,RCB,DC,RCB,bat,RCB,10,0,Feroz Shah Kotla,Delhi,Unknown
+623,2017,RPS,MI,MI,field,RPS,20,0,Wankhede Stadium,Mumbai,Qualifier 1
+624,2017,SRH,KKR,KKR,field,KKR,0,7,M Chinnaswamy Stadium,Bangalore,Eliminator
+625,2017,KKR,MI,MI,field,MI,0,6,M Chinnaswamy Stadium,Bangalore,Qualifier 2
+626,2017,MI,RPS,MI,bat,MI,1,0,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Final
+627,2018,MI,CSK,CSK,field,CSK,0,1,Wankhede Stadium,Mumbai,Unknown
+628,2018,DC,PBKS,PBKS,field,PBKS,0,6,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+629,2018,RCB,KKR,KKR,field,KKR,0,4,Eden Gardens,Kolkata,Unknown
+630,2018,RR,SRH,SRH,field,SRH,0,9,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+631,2018,KKR,CSK,CSK,field,CSK,0,5,MA Chidambaram Stadium,Chennai,Unknown
+632,2018,RR,DC,DC,field,RR,10,0,Sawai Mansingh Stadium,Jaipur,Unknown
+633,2018,MI,SRH,SRH,field,SRH,0,1,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+634,2018,PBKS,RCB,RCB,field,RCB,0,4,M.Chinnaswamy Stadium,Bengaluru,Unknown
+635,2018,MI,DC,DC,field,DC,0,7,Wankhede Stadium,Mumbai,Unknown
+636,2018,KKR,SRH,SRH,field,SRH,0,5,Eden Gardens,Kolkata,Unknown
+637,2018,RR,RCB,RCB,field,RR,19,0,M.Chinnaswamy Stadium,Bengaluru,Unknown
+638,2018,PBKS,CSK,CSK,field,PBKS,4,0,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+639,2018,KKR,DC,DC,field,KKR,71,0,Eden Gardens,Kolkata,Unknown
+640,2018,MI,RCB,RCB,field,MI,46,0,Wankhede Stadium,Mumbai,Unknown
+641,2018,RR,KKR,KKR,field,KKR,0,7,Sawai Mansingh Stadium,Jaipur,Unknown
+642,2018,PBKS,SRH,PBKS,bat,PBKS,15,0,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+643,2018,CSK,RR,RR,field,CSK,64,0,Maharashtra Cricket Association Stadium,Pune,Unknown
+644,2018,KKR,PBKS,PBKS,field,PBKS,0,9,Eden Gardens,Kolkata,Unknown
+645,2018,DC,RCB,RCB,field,RCB,0,6,M.Chinnaswamy Stadium,Bengaluru,Unknown
+646,2018,CSK,SRH,SRH,field,CSK,4,0,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+647,2018,MI,RR,MI,bat,RR,0,3,Sawai Mansingh Stadium,Jaipur,Unknown
+648,2018,PBKS,DC,DC,field,PBKS,4,0,Arun Jaitley Stadium,Delhi,Unknown
+649,2018,SRH,MI,MI,field,SRH,31,0,Wankhede Stadium,Mumbai,Unknown
+650,2018,RCB,CSK,CSK,field,CSK,0,5,M.Chinnaswamy Stadium,Bengaluru,Unknown
+651,2018,SRH,PBKS,PBKS,field,SRH,13,0,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+652,2018,DC,KKR,KKR,field,DC,55,0,Arun Jaitley Stadium,Delhi,Unknown
+653,2018,CSK,MI,MI,field,MI,0,8,Maharashtra Cricket Association Stadium,Pune,Unknown
+654,2018,SRH,RR,SRH,bat,SRH,11,0,Sawai Mansingh Stadium,Jaipur,Unknown
+655,2018,RCB,KKR,KKR,field,KKR,0,6,M.Chinnaswamy Stadium,Bengaluru,Unknown
+656,2018,CSK,DC,DC,field,CSK,13,0,Maharashtra Cricket Association Stadium,Pune,Unknown
+657,2018,RCB,MI,MI,field,RCB,14,0,M.Chinnaswamy Stadium,Bengaluru,Unknown
+658,2018,DC,RR,RR,field,DC,4,0,Arun Jaitley Stadium,Delhi,Unknown
+659,2018,CSK,KKR,KKR,field,KKR,0,6,Eden Gardens,Kolkata,Unknown
+660,2018,PBKS,MI,MI,field,MI,0,6,Holkar Cricket Stadium,Indore,Unknown
+661,2018,RCB,CSK,CSK,field,CSK,0,6,Maharashtra Cricket Association Stadium,Pune,Unknown
+662,2018,DC,SRH,DC,bat,SRH,0,7,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+663,2018,MI,KKR,KKR,field,MI,13,0,Wankhede Stadium,Mumbai,Unknown
+664,2018,RR,PBKS,PBKS,field,PBKS,0,6,Holkar Cricket Stadium,Indore,Unknown
+665,2018,SRH,RCB,RCB,field,SRH,5,0,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+666,2018,RR,PBKS,RR,bat,RR,15,0,Sawai Mansingh Stadium,Jaipur,Unknown
+667,2018,MI,KKR,KKR,field,MI,102,0,Eden Gardens,Kolkata,Unknown
+668,2018,DC,SRH,DC,bat,SRH,0,9,Arun Jaitley Stadium,Delhi,Unknown
+669,2018,CSK,RR,CSK,bat,RR,0,4,Sawai Mansingh Stadium,Jaipur,Unknown
+670,2018,KKR,PBKS,PBKS,field,KKR,31,0,Holkar Cricket Stadium,Indore,Unknown
+671,2018,DC,RCB,RCB,field,RCB,0,5,Arun Jaitley Stadium,Delhi,Unknown
+672,2018,SRH,CSK,CSK,field,CSK,0,8,Maharashtra Cricket Association Stadium,Pune,Unknown
+673,2018,MI,RR,RR,field,RR,0,7,Wankhede Stadium,Mumbai,Unknown
+674,2018,PBKS,RCB,RCB,field,RCB,0,10,Holkar Cricket Stadium,Indore,Unknown
+675,2018,RR,KKR,KKR,field,KKR,0,6,Eden Gardens,Kolkata,Unknown
+676,2018,MI,PBKS,PBKS,field,MI,3,0,Wankhede Stadium,Mumbai,Unknown
+677,2018,RCB,SRH,SRH,field,RCB,14,0,M.Chinnaswamy Stadium,Bengaluru,Unknown
+678,2018,DC,CSK,CSK,field,DC,34,0,Arun Jaitley Stadium,Delhi,Unknown
+679,2018,RR,RCB,RR,bat,RR,30,0,Sawai Mansingh Stadium,Jaipur,Unknown
+680,2018,SRH,KKR,SRH,bat,KKR,0,5,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+681,2018,DC,MI,DC,bat,DC,11,0,Arun Jaitley Stadium,Delhi,Unknown
+682,2018,PBKS,CSK,CSK,field,CSK,0,5,Maharashtra Cricket Association Stadium,Pune,Unknown
+683,2018,SRH,CSK,CSK,field,CSK,0,2,Wankhede Stadium,Mumbai,Qualifier 1
+684,2018,KKR,RR,RR,field,KKR,25,0,Eden Gardens,Kolkata,Eliminator
+685,2018,SRH,KKR,KKR,field,SRH,14,0,Eden Gardens,Kolkata,Qualifier 2
+686,2018,SRH,CSK,CSK,field,CSK,0,8,Wankhede Stadium,Mumbai,Final
+687,2019,RCB,CSK,CSK,field,CSK,0,7,MA Chidambaram Stadium,Chennai,Unknown
+688,2019,SRH,KKR,KKR,field,KKR,0,6,Eden Gardens,Kolkata,Unknown
+689,2019,DC,MI,MI,field,DC,37,0,Wankhede Stadium,Mumbai,Unknown
+690,2019,PBKS,RR,RR,field,PBKS,14,0,Sawai Mansingh Stadium,Jaipur,Unknown
+691,2019,DC,CSK,DC,bat,CSK,0,6,Arun Jaitley Stadium,Delhi,Unknown
+692,2019,KKR,PBKS,PBKS,field,KKR,28,0,Eden Gardens,Kolkata,Unknown
+693,2019,MI,RCB,RCB,field,MI,6,0,M.Chinnaswamy Stadium,Bengaluru,Unknown
+694,2019,RR,SRH,RR,bat,SRH,0,5,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+695,2019,MI,PBKS,PBKS,field,PBKS,0,8,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+696,2019,SRH,RCB,RCB,field,SRH,118,0,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+697,2019,CSK,RR,RR,field,CSK,8,0,MA Chidambaram Stadium,Chennai,Unknown
+698,2019,PBKS,DC,DC,field,PBKS,14,0,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+699,2019,RCB,RR,RR,field,RR,0,7,Sawai Mansingh Stadium,Jaipur,Unknown
+700,2019,MI,CSK,CSK,field,MI,37,0,Wankhede Stadium,Mumbai,Unknown
+701,2019,DC,SRH,SRH,field,SRH,0,5,Arun Jaitley Stadium,Delhi,Unknown
+702,2019,RCB,KKR,KKR,field,KKR,0,5,M.Chinnaswamy Stadium,Bengaluru,Unknown
+703,2019,CSK,PBKS,CSK,bat,CSK,22,0,MA Chidambaram Stadium,Chennai,Unknown
+704,2019,MI,SRH,SRH,field,MI,40,0,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+705,2019,RCB,DC,DC,field,DC,0,4,M.Chinnaswamy Stadium,Bengaluru,Unknown
+706,2019,RR,KKR,KKR,field,KKR,0,8,Sawai Mansingh Stadium,Jaipur,Unknown
+707,2019,SRH,PBKS,PBKS,field,PBKS,0,6,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+708,2019,KKR,CSK,CSK,field,CSK,0,7,MA Chidambaram Stadium,Chennai,Unknown
+709,2019,PBKS,MI,MI,field,MI,0,3,Wankhede Stadium,Mumbai,Unknown
+710,2019,RR,CSK,CSK,field,CSK,0,4,Sawai Mansingh Stadium,Jaipur,Unknown
+711,2019,KKR,DC,DC,field,DC,0,7,Eden Gardens,Kolkata,Unknown
+712,2019,MI,RR,RR,field,RR,0,4,Wankhede Stadium,Mumbai,Unknown
+713,2019,PBKS,RCB,RCB,field,RCB,0,8,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+714,2019,KKR,CSK,CSK,field,CSK,0,5,Eden Gardens,Kolkata,Unknown
+715,2019,DC,SRH,SRH,field,DC,39,0,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+716,2019,RCB,MI,MI,field,MI,0,5,Wankhede Stadium,Mumbai,Unknown
+717,2019,PBKS,RR,RR,field,PBKS,12,0,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+718,2019,CSK,SRH,CSK,bat,SRH,0,6,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+719,2019,MI,DC,MI,bat,MI,40,0,Arun Jaitley Stadium,Delhi,Unknown
+720,2019,RCB,KKR,KKR,field,RCB,10,0,Eden Gardens,Kolkata,Unknown
+721,2019,MI,RR,RR,field,RR,0,5,Sawai Mansingh Stadium,Jaipur,Unknown
+722,2019,PBKS,DC,DC,field,DC,0,5,Arun Jaitley Stadium,Delhi,Unknown
+723,2019,KKR,SRH,SRH,field,SRH,0,9,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+724,2019,RCB,CSK,CSK,field,RCB,1,0,M.Chinnaswamy Stadium,Bengaluru,Unknown
+725,2019,RR,DC,DC,field,DC,0,6,Sawai Mansingh Stadium,Jaipur,Unknown
+726,2019,SRH,CSK,CSK,field,CSK,0,6,MA Chidambaram Stadium,Chennai,Unknown
+727,2019,RCB,PBKS,PBKS,field,RCB,17,0,M.Chinnaswamy Stadium,Bengaluru,Unknown
+728,2019,KKR,RR,RR,field,RR,0,3,Eden Gardens,Kolkata,Unknown
+729,2019,MI,CSK,CSK,field,MI,46,0,MA Chidambaram Stadium,Chennai,Unknown
+730,2019,SRH,RR,RR,field,RR,0,7,Sawai Mansingh Stadium,Jaipur,Unknown
+731,2019,DC,RCB,DC,bat,DC,16,0,Arun Jaitley Stadium,Delhi,Unknown
+732,2019,KKR,MI,MI,field,KKR,34,0,Eden Gardens,Kolkata,Unknown
+733,2019,SRH,PBKS,PBKS,field,SRH,45,0,Rajiv Gandhi International Stadium,Hyderabad,Unknown
+734,2019,CSK,DC,DC,field,CSK,80,0,MA Chidambaram Stadium,Chennai,Unknown
+735,2019,PBKS,KKR,KKR,field,KKR,0,7,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+736,2019,RR,DC,RR,bat,DC,0,5,Arun Jaitley Stadium,Delhi,Unknown
+737,2019,SRH,RCB,RCB,field,RCB,0,4,M.Chinnaswamy Stadium,Bengaluru,Unknown
+738,2019,CSK,PBKS,PBKS,field,PBKS,0,6,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Unknown
+739,2019,KKR,MI,MI,field,MI,0,9,Wankhede Stadium,Mumbai,Unknown
+740,2019,CSK,MI,CSK,bat,MI,0,6,MA Chidambaram Stadium,Chennai,Qualifier 1
+741,2019,SRH,DC,DC,field,DC,0,2,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Eliminator
+742,2019,DC,CSK,CSK,field,CSK,0,6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Qualifier 2
+743,2019,MI,CSK,MI,bat,MI,1,0,Rajiv Gandhi International Stadium,Hyderabad,Final
+744,2020,MI,CSK,CSK,field,CSK,0,5,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+745,2020,RCB,SRH,SRH,field,RCB,10,0,Dubai International Cricket Stadium,Unknown,Unknown
+746,2020,RR,CSK,CSK,field,RR,16,0,Sharjah Cricket Stadium,Unknown,Unknown
+747,2020,MI,KKR,KKR,field,MI,49,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+748,2020,PBKS,RCB,RCB,field,PBKS,97,0,Dubai International Cricket Stadium,Unknown,Unknown
+749,2020,DC,CSK,CSK,field,DC,44,0,Dubai International Cricket Stadium,Unknown,Unknown
+750,2020,SRH,KKR,SRH,bat,KKR,0,7,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+751,2020,PBKS,RR,RR,field,RR,0,4,Sharjah Cricket Stadium,Unknown,Unknown
+752,2020,SRH,DC,DC,field,SRH,15,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+753,2020,KKR,RR,RR,field,KKR,37,0,Dubai International Cricket Stadium,Unknown,Unknown
+754,2020,MI,PBKS,PBKS,field,MI,48,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+755,2020,SRH,CSK,SRH,bat,SRH,7,0,Dubai International Cricket Stadium,Unknown,Unknown
+756,2020,RR,RCB,RR,bat,RCB,0,8,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+757,2020,DC,KKR,KKR,field,DC,18,0,Sharjah Cricket Stadium,Unknown,Unknown
+758,2020,PBKS,CSK,PBKS,bat,CSK,0,10,Dubai International Cricket Stadium,Unknown,Unknown
+759,2020,MI,SRH,MI,bat,MI,34,0,Sharjah Cricket Stadium,Unknown,Unknown
+760,2020,DC,RCB,RCB,field,DC,59,0,Dubai International Cricket Stadium,Unknown,Unknown
+761,2020,MI,RR,MI,bat,MI,57,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+762,2020,KKR,CSK,KKR,bat,KKR,10,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+763,2020,SRH,PBKS,SRH,bat,SRH,69,0,Dubai International Cricket Stadium,Unknown,Unknown
+764,2020,DC,RR,RR,field,DC,46,0,Sharjah Cricket Stadium,Unknown,Unknown
+765,2020,KKR,PBKS,KKR,bat,KKR,2,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+766,2020,RCB,CSK,RCB,bat,RCB,37,0,Dubai International Cricket Stadium,Unknown,Unknown
+767,2020,SRH,RR,SRH,bat,RR,0,5,Dubai International Cricket Stadium,Unknown,Unknown
+768,2020,DC,MI,DC,bat,MI,0,5,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+769,2020,RCB,KKR,RCB,bat,RCB,82,0,Sharjah Cricket Stadium,Unknown,Unknown
+770,2020,CSK,SRH,CSK,bat,CSK,20,0,Dubai International Cricket Stadium,Unknown,Unknown
+771,2020,DC,RR,DC,bat,DC,13,0,Dubai International Cricket Stadium,Unknown,Unknown
+772,2020,RCB,PBKS,RCB,bat,PBKS,0,8,Sharjah Cricket Stadium,Unknown,Unknown
+773,2020,KKR,MI,KKR,bat,MI,0,8,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+774,2020,CSK,DC,CSK,bat,DC,0,5,Sharjah Cricket Stadium,Unknown,Unknown
+775,2020,RR,RCB,RR,bat,RCB,0,7,Dubai International Cricket Stadium,Unknown,Unknown
+776,2020,CSK,RR,CSK,bat,RR,0,7,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+777,2020,DC,PBKS,DC,bat,PBKS,0,5,Dubai International Cricket Stadium,Unknown,Unknown
+778,2020,KKR,RCB,KKR,bat,RCB,0,8,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+779,2020,RR,SRH,SRH,field,SRH,0,8,Dubai International Cricket Stadium,Unknown,Unknown
+780,2020,CSK,MI,MI,field,MI,0,10,Sharjah Cricket Stadium,Unknown,Unknown
+781,2020,KKR,DC,DC,field,KKR,59,0,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+782,2020,PBKS,SRH,SRH,field,PBKS,12,0,Dubai International Cricket Stadium,Unknown,Unknown
+783,2020,MI,RR,MI,bat,RR,0,8,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+784,2020,RCB,CSK,RCB,bat,CSK,0,8,Dubai International Cricket Stadium,Unknown,Unknown
+785,2020,KKR,PBKS,PBKS,field,PBKS,0,8,Sharjah Cricket Stadium,Unknown,Unknown
+786,2020,SRH,DC,DC,field,SRH,88,0,Dubai International Cricket Stadium,Unknown,Unknown
+787,2020,RCB,MI,MI,field,MI,0,5,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+788,2020,KKR,CSK,CSK,field,CSK,0,6,Dubai International Cricket Stadium,Unknown,Unknown
+789,2020,PBKS,RR,RR,field,RR,0,7,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+790,2020,RCB,SRH,SRH,field,SRH,0,5,Sharjah Cricket Stadium,Unknown,Unknown
+791,2020,DC,MI,MI,field,MI,0,9,Dubai International Cricket Stadium,Unknown,Unknown
+792,2020,PBKS,CSK,CSK,field,CSK,0,9,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+793,2020,KKR,RR,RR,field,KKR,60,0,Dubai International Cricket Stadium,Unknown,Unknown
+794,2020,RCB,DC,DC,field,DC,0,6,Sheikh Zayed Stadium,Abu Dhabi,Unknown
+795,2020,MI,SRH,SRH,field,SRH,0,10,Sharjah Cricket Stadium,Unknown,Unknown
+796,2020,MI,DC,DC,field,MI,57,0,Dubai International Cricket Stadium,Unknown,Qualifier 1
+797,2020,RCB,SRH,SRH,field,SRH,0,6,Sheikh Zayed Stadium,Abu Dhabi,Eliminator
+798,2020,DC,SRH,DC,bat,DC,17,0,Sheikh Zayed Stadium,Abu Dhabi,Qualifier 2
+799,2020,DC,MI,DC,bat,MI,0,5,Dubai International Cricket Stadium,Unknown,Final
+800,2021,MI,RCB,RCB,field,RCB,0,2,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+801,2021,CSK,DC,DC,field,DC,0,7,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+802,2021,KKR,SRH,SRH,field,KKR,10,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+803,2021,PBKS,RR,RR,field,PBKS,4,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+804,2021,MI,KKR,KKR,field,MI,10,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+805,2021,RCB,SRH,SRH,field,RCB,6,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+806,2021,DC,RR,RR,field,RR,0,3,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+807,2021,PBKS,CSK,CSK,field,CSK,0,6,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+808,2021,MI,SRH,MI,bat,MI,13,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+809,2021,RCB,KKR,RCB,bat,RCB,38,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+810,2021,PBKS,DC,DC,field,DC,0,6,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+811,2021,CSK,RR,RR,field,CSK,45,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+812,2021,MI,DC,MI,bat,DC,0,6,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+813,2021,PBKS,SRH,PBKS,bat,SRH,0,9,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+814,2021,CSK,KKR,KKR,field,CSK,18,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+815,2021,RR,RCB,RCB,field,RCB,0,10,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+816,2021,MI,PBKS,PBKS,field,PBKS,0,9,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+817,2021,KKR,RR,RR,field,RR,0,6,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+818,2021,CSK,RCB,CSK,bat,CSK,69,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+819,2021,PBKS,KKR,KKR,field,KKR,0,5,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+820,2021,RCB,DC,DC,field,RCB,1,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+821,2021,SRH,CSK,SRH,bat,CSK,0,7,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+822,2021,RR,MI,MI,field,MI,0,7,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+823,2021,KKR,DC,DC,field,DC,0,7,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+824,2021,PBKS,RCB,RCB,field,PBKS,34,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+825,2021,CSK,MI,MI,field,MI,0,4,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+826,2021,RR,SRH,SRH,field,RR,55,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+827,2021,PBKS,DC,DC,field,DC,0,7,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+828,2021,CSK,MI,CSK,bat,CSK,20,0,Dubai International Cricket Stadium,Dubai,Unknown
+829,2021,RCB,KKR,RCB,bat,KKR,0,9,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Unknown
+830,2021,RR,PBKS,PBKS,field,RR,2,0,Dubai International Cricket Stadium,Dubai,Unknown
+831,2021,SRH,DC,SRH,bat,DC,0,8,Dubai International Cricket Stadium,Dubai,Unknown
+832,2021,MI,KKR,KKR,field,KKR,0,7,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Unknown
+833,2021,RCB,CSK,CSK,field,CSK,0,6,Sharjah Cricket Stadium,Sharjah,Unknown
+834,2021,DC,RR,RR,field,DC,33,0,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Unknown
+835,2021,PBKS,SRH,SRH,field,PBKS,5,0,Sharjah Cricket Stadium,Sharjah,Unknown
+836,2021,KKR,CSK,KKR,bat,CSK,0,2,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Unknown
+837,2021,RCB,MI,MI,field,RCB,54,0,Dubai International Cricket Stadium,Dubai,Unknown
+838,2021,RR,SRH,RR,bat,SRH,0,7,Dubai International Cricket Stadium,Dubai,Unknown
+839,2021,DC,KKR,KKR,field,KKR,0,3,Sharjah Cricket Stadium,Sharjah,Unknown
+840,2021,PBKS,MI,MI,field,MI,0,6,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Unknown
+841,2021,RR,RCB,RCB,field,RCB,0,7,Dubai International Cricket Stadium,Dubai,Unknown
+842,2021,SRH,CSK,CSK,field,CSK,0,6,Sharjah Cricket Stadium,Sharjah,Unknown
+843,2021,KKR,PBKS,PBKS,field,PBKS,0,5,Dubai International Cricket Stadium,Dubai,Unknown
+844,2021,CSK,RR,RR,field,RR,0,7,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Unknown
+845,2021,MI,DC,DC,field,DC,0,4,Sharjah Cricket Stadium,Sharjah,Unknown
+846,2021,RCB,PBKS,RCB,bat,RCB,6,0,Sharjah Cricket Stadium,Sharjah,Unknown
+847,2021,SRH,KKR,SRH,bat,KKR,0,6,Dubai International Cricket Stadium,Dubai,Unknown
+848,2021,CSK,DC,DC,field,DC,0,3,Dubai International Cricket Stadium,Dubai,Unknown
+849,2021,RR,MI,MI,field,MI,0,8,Sharjah Cricket Stadium,Sharjah,Unknown
+850,2021,SRH,RCB,RCB,field,SRH,4,0,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Unknown
+851,2021,CSK,PBKS,PBKS,field,PBKS,0,6,Dubai International Cricket Stadium,Dubai,Unknown
+852,2021,KKR,RR,RR,field,KKR,86,0,Sharjah Cricket Stadium,Sharjah,Unknown
+853,2021,MI,SRH,MI,bat,MI,42,0,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Unknown
+854,2021,DC,RCB,RCB,field,RCB,0,7,Dubai International Cricket Stadium,Dubai,Unknown
+855,2021,DC,CSK,CSK,field,CSK,0,4,Dubai International Cricket Stadium,Dubai,Qualifier 1
+856,2021,RCB,KKR,RCB,bat,KKR,0,4,Sharjah Cricket Stadium,Sharjah,Eliminator
+857,2021,DC,KKR,KKR,field,KKR,0,3,Sharjah Cricket Stadium,Sharjah,Qualifier 2
+858,2021,CSK,KKR,KKR,field,CSK,27,0,Dubai International Cricket Stadium,Dubai,Final
+859,2022,CSK,KKR,KKR,field,KKR,0,6,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+860,2022,MI,DC,DC,field,DC,0,4,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+861,2022,RCB,PBKS,PBKS,field,PBKS,0,5,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+862,2022,LSG,GT,GT,field,GT,0,5,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+863,2022,RR,SRH,SRH,field,RR,61,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+864,2022,KKR,RCB,RCB,field,RCB,0,3,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+865,2022,CSK,LSG,LSG,field,LSG,0,6,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+866,2022,PBKS,KKR,KKR,field,KKR,0,6,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+867,2022,RR,MI,MI,field,RR,23,0,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+868,2022,GT,DC,DC,field,GT,14,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+869,2022,PBKS,CSK,CSK,field,PBKS,54,0,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+870,2022,LSG,SRH,SRH,field,LSG,12,0,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+871,2022,RR,RCB,RCB,field,RCB,0,4,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+872,2022,MI,KKR,KKR,field,KKR,0,5,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+873,2022,DC,LSG,LSG,field,LSG,0,6,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+874,2022,PBKS,GT,GT,field,GT,0,6,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+875,2022,CSK,SRH,SRH,field,SRH,0,8,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+876,2022,MI,RCB,RCB,field,RCB,0,7,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+877,2022,DC,KKR,KKR,field,DC,44,0,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+878,2022,RR,LSG,LSG,field,RR,3,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+879,2022,GT,SRH,SRH,field,SRH,0,8,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+880,2022,CSK,RCB,RCB,field,CSK,23,0,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+881,2022,PBKS,MI,MI,field,PBKS,12,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+882,2022,GT,RR,RR,field,GT,37,0,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+883,2022,KKR,SRH,SRH,field,SRH,0,7,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+884,2022,LSG,MI,MI,field,LSG,18,0,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+885,2022,RCB,DC,DC,field,RCB,16,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+886,2022,PBKS,SRH,SRH,field,SRH,0,7,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+887,2022,CSK,GT,GT,field,GT,0,3,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+888,2022,RR,KKR,KKR,field,RR,7,0,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+889,2022,RCB,LSG,LSG,field,RCB,18,0,"Dr DY Patil Sports Academy, Mumbai",Mumbai,Unknown
+890,2022,PBKS,DC,DC,field,DC,0,9,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+891,2022,MI,CSK,CSK,field,CSK,0,3,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Unknown
+892,2022,RR,DC,DC,field,RR,15,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+893,2022,GT,KKR,GT,bat,GT,8,0,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Unknown
+894,2022,RCB,SRH,SRH,field,SRH,0,9,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+895,2022,LSG,MI,MI,field,LSG,36,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+896,2022,PBKS,CSK,CSK,field,PBKS,11,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+897,2022,RR,RCB,RCB,field,RR,29,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+898,2022,SRH,GT,GT,field,GT,0,5,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+899,2022,KKR,DC,DC,field,DC,0,4,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+900,2022,LSG,PBKS,PBKS,field,LSG,20,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+901,2022,RCB,GT,RCB,bat,GT,0,6,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+902,2022,RR,MI,MI,field,MI,0,5,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Unknown
+903,2022,LSG,DC,LSG,bat,LSG,6,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+904,2022,CSK,SRH,SRH,field,CSK,13,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+905,2022,RR,KKR,KKR,field,KKR,0,7,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+906,2022,GT,PBKS,GT,bat,PBKS,0,8,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Unknown
+907,2022,RCB,CSK,CSK,field,RCB,13,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+908,2022,DC,SRH,SRH,field,DC,21,0,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+909,2022,MI,GT,GT,field,MI,5,0,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+910,2022,PBKS,RR,PBKS,bat,RR,0,6,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+911,2022,LSG,KKR,KKR,field,LSG,75,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+912,2022,RCB,SRH,RCB,bat,RCB,67,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+913,2022,CSK,DC,DC,field,CSK,91,0,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Unknown
+914,2022,KKR,MI,MI,field,KKR,52,0,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Unknown
+915,2022,GT,LSG,GT,bat,GT,62,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+916,2022,RR,DC,DC,field,DC,0,8,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Unknown
+917,2022,CSK,MI,MI,field,MI,0,5,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+918,2022,PBKS,RCB,RCB,field,PBKS,54,0,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+919,2022,KKR,SRH,KKR,bat,KKR,54,0,"Maharashtra Cricket Association Stadium, Pune",Pune,Unknown
+920,2022,CSK,GT,CSK,bat,GT,0,7,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+921,2022,RR,LSG,RR,bat,RR,24,0,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+922,2022,DC,PBKS,PBKS,field,DC,17,0,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Unknown
+923,2022,SRH,MI,MI,field,SRH,3,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+924,2022,LSG,KKR,LSG,bat,LSG,2,0,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,Unknown
+925,2022,GT,RCB,GT,bat,RCB,0,8,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+926,2022,CSK,RR,CSK,bat,RR,0,5,"Brabourne Stadium, Mumbai",Mumbai,Unknown
+927,2022,DC,MI,MI,field,MI,0,5,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+928,2022,SRH,PBKS,SRH,bat,PBKS,0,5,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+929,2022,RR,GT,GT,field,GT,0,7,"Eden Gardens, Kolkata",Kolkata,Qualifier 1
+930,2022,RCB,LSG,LSG,field,RCB,14,0,"Eden Gardens, Kolkata",Kolkata,Eliminator
+931,2022,RCB,RR,RR,field,RR,0,7,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Qualifier 2
+932,2022,RR,GT,RR,bat,GT,0,7,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Final
+933,2023,CSK,GT,GT,field,GT,0,5,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+934,2023,PBKS,KKR,KKR,field,PBKS,7,0,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Unknown
+935,2023,LSG,DC,DC,field,LSG,50,0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+936,2023,RR,SRH,SRH,field,RR,72,0,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+937,2023,MI,RCB,RCB,field,RCB,0,8,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+938,2023,CSK,LSG,LSG,field,CSK,12,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+939,2023,DC,GT,GT,field,GT,0,6,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+940,2023,PBKS,RR,RR,field,PBKS,5,0,"Barsapara Cricket Stadium, Guwahati",Guwahati,Unknown
+941,2023,KKR,RCB,RCB,field,KKR,81,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+942,2023,SRH,LSG,SRH,bat,LSG,0,5,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+943,2023,RR,DC,DC,field,RR,57,0,"Barsapara Cricket Stadium, Guwahati",Guwahati,Unknown
+944,2023,MI,CSK,CSK,field,CSK,0,7,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+945,2023,GT,KKR,GT,bat,KKR,0,3,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+946,2023,PBKS,SRH,SRH,field,SRH,0,8,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+947,2023,RCB,LSG,LSG,field,LSG,0,1,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+948,2023,DC,MI,MI,field,MI,0,6,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+949,2023,RR,CSK,CSK,field,RR,3,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+950,2023,PBKS,GT,GT,field,GT,0,6,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Unknown
+951,2023,SRH,KKR,KKR,field,SRH,23,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+952,2023,RCB,DC,DC,field,RCB,23,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+953,2023,LSG,PBKS,PBKS,field,PBKS,0,2,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+954,2023,KKR,MI,MI,field,MI,0,5,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+955,2023,GT,RR,RR,field,RR,0,3,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+956,2023,CSK,RCB,RCB,field,CSK,8,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+957,2023,MI,SRH,SRH,field,MI,14,0,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+958,2023,LSG,RR,RR,field,LSG,10,0,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+959,2023,RCB,PBKS,PBKS,field,RCB,24,0,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Unknown
+960,2023,KKR,DC,DC,field,DC,0,4,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+961,2023,SRH,CSK,CSK,field,CSK,0,7,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+962,2023,GT,LSG,GT,bat,GT,7,0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+963,2023,PBKS,MI,MI,field,PBKS,13,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+964,2023,RCB,RR,RR,field,RCB,7,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+965,2023,CSK,KKR,KKR,field,CSK,49,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+966,2023,DC,SRH,DC,bat,DC,7,0,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+967,2023,GT,MI,MI,field,GT,55,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+968,2023,KKR,RCB,RCB,field,KKR,21,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+969,2023,RR,CSK,RR,bat,RR,32,0,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+970,2023,LSG,PBKS,PBKS,field,LSG,56,0,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Unknown
+971,2023,KKR,GT,GT,field,GT,0,7,"Eden Gardens, Kolkata",Kolkata,Unknown
+972,2023,SRH,DC,SRH,bat,SRH,9,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+973,2023,CSK,PBKS,CSK,bat,PBKS,0,4,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+974,2023,RR,MI,RR,bat,MI,0,6,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+975,2023,RCB,LSG,RCB,bat,RCB,18,0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+976,2023,DC,GT,DC,bat,DC,5,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+977,2023,PBKS,MI,MI,field,MI,0,6,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Unknown
+978,2023,KKR,SRH,KKR,bat,KKR,5,0,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+979,2023,RR,GT,RR,bat,GT,0,9,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+980,2023,MI,CSK,CSK,field,CSK,0,6,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+981,2023,RCB,DC,RCB,bat,DC,0,7,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+982,2023,GT,LSG,LSG,field,GT,56,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+983,2023,RR,SRH,RR,bat,SRH,0,4,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+984,2023,PBKS,KKR,PBKS,bat,KKR,0,5,"Eden Gardens, Kolkata",Kolkata,Unknown
+985,2023,RCB,MI,MI,field,MI,0,6,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+986,2023,CSK,DC,CSK,bat,CSK,27,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+987,2023,KKR,RR,RR,field,RR,0,9,"Eden Gardens, Kolkata",Kolkata,Unknown
+988,2023,MI,GT,GT,field,MI,27,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+989,2023,SRH,LSG,SRH,bat,LSG,0,7,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+990,2023,PBKS,DC,DC,field,PBKS,31,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+991,2023,RCB,RR,RCB,bat,RCB,112,0,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+992,2023,CSK,KKR,CSK,bat,KKR,0,6,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+993,2023,GT,SRH,SRH,field,GT,34,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+994,2023,LSG,MI,MI,field,LSG,5,0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+995,2023,DC,PBKS,PBKS,field,DC,15,0,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Unknown
+996,2023,SRH,RCB,RCB,field,RCB,0,8,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+997,2023,PBKS,RR,RR,field,RR,0,4,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Unknown
+998,2023,CSK,DC,CSK,bat,CSK,77,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+999,2023,LSG,KKR,KKR,field,LSG,1,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+1000,2023,SRH,MI,MI,field,MI,0,8,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1001,2023,RCB,GT,GT,field,GT,0,6,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1002,2023,CSK,GT,GT,field,CSK,15,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Qualifier 1
+1003,2023,MI,LSG,MI,bat,MI,81,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Eliminator
+1004,2023,GT,MI,MI,field,GT,62,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Qualifier 2
+1005,2023,GT,CSK,CSK,field,CSK,0,5,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Final
+1006,2024,RCB,CSK,RCB,bat,CSK,0,6,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1007,2024,DC,PBKS,PBKS,field,PBKS,0,4,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown
+1008,2024,KKR,SRH,SRH,field,KKR,4,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+1009,2024,RR,LSG,RR,bat,RR,20,0,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1010,2024,GT,MI,MI,field,GT,6,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1011,2024,PBKS,RCB,RCB,field,RCB,0,4,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1012,2024,CSK,GT,GT,field,CSK,63,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1013,2024,SRH,MI,MI,field,SRH,31,0,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1014,2024,RR,DC,DC,field,RR,12,0,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1015,2024,RCB,KKR,KKR,field,KKR,0,7,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1016,2024,LSG,PBKS,LSG,bat,LSG,21,0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1017,2024,SRH,GT,SRH,bat,GT,0,7,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1018,2024,DC,CSK,DC,bat,DC,20,0,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Unknown
+1019,2024,MI,RR,RR,field,RR,0,6,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1020,2024,LSG,RCB,RCB,field,LSG,28,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1021,2024,KKR,DC,KKR,bat,KKR,106,0,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Unknown
+1022,2024,GT,PBKS,PBKS,field,PBKS,0,3,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1023,2024,CSK,SRH,SRH,field,SRH,0,6,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1024,2024,RCB,RR,RR,field,RR,0,6,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1025,2024,MI,DC,DC,field,MI,29,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1026,2024,LSG,GT,LSG,bat,LSG,33,0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1027,2024,KKR,CSK,CSK,field,CSK,0,7,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1028,2024,SRH,PBKS,PBKS,field,SRH,2,0,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown
+1029,2024,RR,GT,GT,field,GT,0,3,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1030,2024,RCB,MI,MI,field,MI,0,7,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1031,2024,LSG,DC,LSG,bat,DC,0,6,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1032,2024,PBKS,RR,RR,field,RR,0,3,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown
+1033,2024,LSG,KKR,KKR,field,KKR,0,8,"Eden Gardens, Kolkata",Kolkata,Unknown
+1034,2024,CSK,MI,MI,field,CSK,20,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1035,2024,SRH,RCB,RCB,field,SRH,25,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1036,2024,KKR,RR,RR,field,RR,0,2,"Eden Gardens, Kolkata",Kolkata,Unknown
+1037,2024,GT,DC,DC,field,DC,0,6,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1038,2024,MI,PBKS,PBKS,field,MI,9,0,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown
+1039,2024,CSK,LSG,LSG,field,LSG,0,8,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1040,2024,SRH,DC,DC,field,SRH,67,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1041,2024,KKR,RCB,RCB,field,KKR,1,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+1042,2024,PBKS,GT,PBKS,bat,GT,0,3,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown
+1043,2024,MI,RR,MI,bat,RR,0,9,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1044,2024,CSK,LSG,LSG,field,LSG,0,6,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1045,2024,DC,GT,GT,field,DC,4,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1046,2024,RCB,SRH,RCB,bat,RCB,35,0,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1047,2024,KKR,PBKS,PBKS,field,PBKS,0,8,"Eden Gardens, Kolkata",Kolkata,Unknown
+1048,2024,DC,MI,MI,field,DC,10,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1049,2024,LSG,RR,RR,field,RR,0,7,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1050,2024,GT,RCB,RCB,field,RCB,0,9,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1051,2024,CSK,SRH,SRH,field,CSK,78,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1052,2024,DC,KKR,DC,bat,KKR,0,7,"Eden Gardens, Kolkata",Kolkata,Unknown
+1053,2024,MI,LSG,LSG,field,LSG,0,4,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1054,2024,CSK,PBKS,PBKS,field,PBKS,0,7,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1055,2024,SRH,RR,SRH,bat,SRH,1,0,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1056,2024,KKR,MI,MI,field,KKR,24,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1057,2024,GT,RCB,RCB,field,RCB,0,4,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1058,2024,CSK,PBKS,PBKS,field,CSK,28,0,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Unknown
+1059,2024,KKR,LSG,LSG,field,KKR,98,0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1060,2024,SRH,MI,MI,field,MI,0,7,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1061,2024,DC,RR,RR,field,DC,20,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1062,2024,LSG,SRH,LSG,bat,SRH,0,10,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1063,2024,RCB,PBKS,PBKS,field,RCB,60,0,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Unknown
+1064,2024,GT,CSK,CSK,field,GT,35,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1065,2024,KKR,MI,MI,field,KKR,18,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+1066,2024,RR,CSK,RR,bat,CSK,0,5,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1067,2024,RCB,DC,DC,field,RCB,47,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1068,2024,DC,LSG,LSG,field,DC,19,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1069,2024,RR,PBKS,RR,bat,PBKS,0,5,"Barsapara Cricket Stadium, Guwahati",Guwahati,Unknown
+1070,2024,LSG,MI,MI,field,LSG,18,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1071,2024,RCB,CSK,CSK,field,RCB,27,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1072,2024,PBKS,SRH,PBKS,bat,SRH,0,4,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1073,2024,SRH,KKR,SRH,bat,KKR,0,8,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Qualifier 1
+1074,2024,RCB,RR,RR,field,RR,0,4,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Eliminator
+1075,2024,SRH,RR,RR,field,SRH,36,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Qualifier 2
+1076,2024,SRH,KKR,SRH,bat,KKR,0,8,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Final
+1077,2025,KKR,RCB,RCB,field,RCB,0,7,"Eden Gardens, Kolkata",Kolkata,Unknown
+1078,2025,SRH,RR,RR,field,SRH,44,0,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1079,2025,MI,CSK,CSK,field,CSK,0,4,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1080,2025,LSG,DC,DC,field,DC,0,1,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Unknown
+1081,2025,PBKS,GT,GT,field,PBKS,11,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1082,2025,RR,KKR,KKR,field,KKR,0,8,"Barsapara Cricket Stadium, Guwahati",Guwahati,Unknown
+1083,2025,SRH,LSG,LSG,field,LSG,0,5,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1084,2025,RCB,CSK,CSK,field,RCB,50,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1085,2025,GT,MI,MI,field,GT,36,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1086,2025,SRH,DC,SRH,bat,DC,0,7,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Unknown
+1087,2025,RR,CSK,CSK,field,RR,6,0,"Barsapara Cricket Stadium, Guwahati",Guwahati,Unknown
+1088,2025,KKR,MI,MI,field,MI,0,8,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1089,2025,LSG,PBKS,PBKS,field,PBKS,0,8,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1090,2025,RCB,GT,GT,field,GT,0,8,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1091,2025,KKR,SRH,SRH,field,KKR,80,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+1092,2025,LSG,MI,MI,field,LSG,12,0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1093,2025,DC,CSK,DC,bat,DC,25,0,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1094,2025,RR,PBKS,PBKS,field,RR,50,0,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown
+1095,2025,SRH,GT,GT,field,GT,0,7,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1096,2025,RCB,MI,MI,field,RCB,12,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1097,2025,LSG,KKR,KKR,field,LSG,4,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+1098,2025,PBKS,CSK,PBKS,bat,PBKS,18,0,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown
+1099,2025,GT,RR,RR,field,GT,58,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1100,2025,RCB,DC,DC,field,DC,0,6,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1101,2025,CSK,KKR,KKR,field,KKR,0,8,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1102,2025,GT,LSG,LSG,field,LSG,0,6,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1103,2025,PBKS,SRH,PBKS,bat,SRH,0,8,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1104,2025,RR,RCB,RCB,field,RCB,0,9,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1105,2025,MI,DC,DC,field,MI,12,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1106,2025,LSG,CSK,CSK,field,CSK,0,5,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1107,2025,PBKS,KKR,PBKS,bat,PBKS,16,0,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown
+1108,2025,SRH,MI,MI,field,MI,0,4,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1109,2025,RCB,PBKS,PBKS,field,PBKS,0,5,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1110,2025,DC,GT,GT,field,GT,0,7,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1111,2025,LSG,RR,LSG,bat,LSG,2,0,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1112,2025,PBKS,RCB,RCB,field,RCB,0,7,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali,Unknown
+1113,2025,CSK,MI,MI,field,MI,0,9,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1114,2025,GT,KKR,KKR,field,GT,39,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+1115,2025,LSG,DC,DC,field,DC,0,8,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1116,2025,SRH,MI,MI,field,MI,0,7,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Unknown
+1117,2025,RCB,RR,RR,field,RCB,11,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1118,2025,CSK,SRH,SRH,field,SRH,0,5,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1119,2025,MI,LSG,LSG,field,MI,54,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1120,2025,DC,RCB,RCB,field,RCB,0,6,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1121,2025,GT,RR,RR,field,RR,0,8,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1122,2025,KKR,DC,DC,field,KKR,14,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1123,2025,CSK,PBKS,PBKS,field,PBKS,0,4,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Unknown
+1124,2025,MI,RR,RR,field,MI,100,0,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1125,2025,GT,SRH,SRH,field,GT,38,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1126,2025,RCB,CSK,CSK,field,RCB,2,0,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,Unknown
+1127,2025,KKR,RR,KKR,bat,KKR,1,0,"Eden Gardens, Kolkata",Kolkata,Unknown
+1128,2025,PBKS,LSG,LSG,field,PBKS,37,0,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Unknown
+1129,2025,MI,GT,GT,field,GT,0,3,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1130,2025,KKR,CSK,KKR,bat,CSK,0,2,"Eden Gardens, Kolkata",Kolkata,Unknown
+1131,2025,PBKS,RR,PBKS,bat,PBKS,10,0,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1132,2025,DC,GT,GT,field,GT,0,10,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1133,2025,LSG,SRH,SRH,field,SRH,0,6,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1134,2025,CSK,RR,RR,field,RR,0,6,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1135,2025,MI,DC,DC,field,MI,59,0,"Wankhede Stadium, Mumbai",Mumbai,Unknown
+1136,2025,LSG,GT,GT,field,LSG,33,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1137,2025,SRH,RCB,RCB,field,SRH,42,0,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1138,2025,PBKS,DC,DC,field,DC,0,6,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1139,2025,CSK,GT,CSK,bat,CSK,83,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Unknown
+1140,2025,SRH,KKR,SRH,bat,SRH,110,0,"Arun Jaitley Stadium, Delhi",Delhi,Unknown
+1141,2025,MI,PBKS,PBKS,field,PBKS,0,7,"Sawai Mansingh Stadium, Jaipur",Jaipur,Unknown
+1142,2025,LSG,RCB,RCB,field,RCB,0,6,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Unknown
+1143,2025,PBKS,RCB,RCB,field,RCB,0,8,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",New Chandigarh,Qualifier 1
+1144,2025,MI,GT,MI,bat,MI,20,0,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",New Chandigarh,Eliminator
+1145,2025,MI,PBKS,PBKS,field,PBKS,0,5,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Qualifier 2
+1146,2025,RCB,PBKS,PBKS,field,RCB,6,0,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Final

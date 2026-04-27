@@ -1,0 +1,62 @@
+{
+  "CSK": {
+    "name": "Chennai Super Kings",
+    "home": "MA Chidambaram Stadium",
+    "titles": 5,
+    "founded": 2008
+  },
+  "MI": {
+    "name": "Mumbai Indians",
+    "home": "Wankhede Stadium",
+    "titles": 5,
+    "founded": 2008
+  },
+  "RCB": {
+    "name": "Royal Challengers Bengaluru",
+    "home": "M Chinnaswamy Stadium",
+    "titles": 1,
+    "founded": 2008
+  },
+  "KKR": {
+    "name": "Kolkata Knight Riders",
+    "home": "Eden Gardens",
+    "titles": 3,
+    "founded": 2008
+  },
+  "DC": {
+    "name": "Delhi Capitals",
+    "home": "Arun Jaitley Stadium",
+    "titles": 0,
+    "founded": 2008
+  },
+  "PBKS": {
+    "name": "Punjab Kings",
+    "home": "Punjab Cricket Association IS Bindra Stadium",
+    "titles": 0,
+    "founded": 2008
+  },
+  "RR": {
+    "name": "Rajasthan Royals",
+    "home": "Sawai Mansingh Stadium",
+    "titles": 1,
+    "founded": 2008
+  },
+  "SRH": {
+    "name": "Sunrisers Hyderabad",
+    "home": "Rajiv Gandhi International Cricket Stadium",
+    "titles": 1,
+    "founded": 2013
+  },
+  "LSG": {
+    "name": "Lucknow Super Giants",
+    "home": "BRSABV Ekana Cricket Stadium",
+    "titles": 0,
+    "founded": 2022
+  },
+  "GT": {
+    "name": "Gujarat Titans",
+    "home": "Narendra Modi Stadium",
+    "titles": 1,
+    "founded": 2022
+  }
+}
