@@ -99,8 +99,10 @@ TEAM_COLORS = {
 # 🎨 Config
 st.set_page_config(page_title="IPL Predictor", layout="wide")
 
-API_URL = "http://127.0.0.1:8000/predict-match"
+import joblib
 
+model = joblib.load("model.pkl")
+prediction = model.predict(input_data)
 # 📐 Layout
 left, main, right = st.columns([1, 3, 1])
 
