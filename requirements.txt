@@ -12,3 +12,5 @@ streamlit
 pandas
 plotly
 requests
+scikit-learn
+numpy
