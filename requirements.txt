@@ -8,3 +8,7 @@ seaborn>=0.13
 joblib>=1.4
 shap>=0.47
 optuna>=3.6
+streamlit
+pandas
+plotly
+requests
