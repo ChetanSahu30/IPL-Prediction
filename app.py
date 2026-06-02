@@ -3,16 +3,19 @@ import streamlit as st
 import requests
 import pandas as pd
 import plotly.express as px
-
 import sqlite3
-from config import SQLITE_DB_PATH
 from datetime import datetime
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
+# ─── Paths (absolute so they work both locally and on Render) ────────────────
+SQLITE_DB_PATH = os.path.join(BASE_DIR, "data", "db", "ipl.db")
+PLAYER_STATS_PATH = os.path.join(BASE_DIR, "data", "raw", "player_stats.csv")
+
 def save_prediction_to_db(team1, team2, winner, team1_prob, team2_prob):
     """Save prediction to database"""
     try:
+        os.makedirs(os.path.dirname(SQLITE_DB_PATH), exist_ok=True)
         conn = sqlite3.connect(SQLITE_DB_PATH)
         cur = conn.cursor()
         
@@ -317,8 +320,8 @@ div.stButton > button:active { transform: translateY(2px); }
 </style>
 """, unsafe_allow_html=True)
 
-# 📊 Load data
-df_players = pd.read_csv("data/raw/player_stats.csv")
+# 📊 Load data (absolute path so it works on Render too)
+df_players = pd.read_csv(PLAYER_STATS_PATH)
 
 # 🔥 Player Impact Function
 def get_player_impact(team, selected_players):
