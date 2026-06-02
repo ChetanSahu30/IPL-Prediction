@@ -1,17 +1,261 @@
+import os
 import streamlit as st
 import requests
 import pandas as pd
 import plotly.express as px
 
+import sqlite3
+from config import SQLITE_DB_PATH
+from datetime import datetime
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+def save_prediction_to_db(team1, team2, winner, team1_prob, team2_prob):
+    """Save prediction to database"""
+    try:
+        conn = sqlite3.connect(SQLITE_DB_PATH)
+        cur = conn.cursor()
+        
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        
+        # Create prediction table if it doesn't exist
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS predictions (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                team1 TEXT,
+                team2 TEXT,
+                predicted_winner TEXT,
+                team1_probability REAL,
+                team2_probability REAL,
+                timestamp TEXT
+            )
+        """)
+        
+        # Insert prediction
+        cur.execute("""
+            INSERT INTO predictions (team1, team2, predicted_winner, team1_probability, team2_probability, timestamp)
+            VALUES (?, ?, ?, ?, ?, ?)
+        """, (team1, team2, winner, team1_prob, team2_prob, timestamp))
+        
+        conn.commit()
+        conn.close()
+        return True
+    except Exception as e:
+        st.error(f"Database error: {e}")
+        return False
+
+def get_prediction_history():
+    """Get all past predictions from database"""
+    try:
+        conn = sqlite3.connect(SQLITE_DB_PATH)
+        history_df = pd.read_sql("""
+            SELECT team1 as 'Team 1', 
+                   team2 as 'Team 2', 
+                   predicted_winner as 'Winner', 
+                   ROUND(team1_probability*100, 1) as 'Team1 %',
+                   ROUND(team2_probability*100, 1) as 'Team2 %',
+                   timestamp as 'Time'
+            FROM predictions 
+            ORDER BY timestamp DESC 
+            LIMIT 50
+        """, conn)
+        conn.close()
+        return history_df if not history_df.empty else None
+    except Exception as e:
+        return None
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+ASSETS_DIR = os.path.join(BASE_DIR, "assets")
+
+st.set_page_config(page_title="Sports Analytics & Prediction System", layout="wide")
+
 st.markdown("""
 <style>
 
 body {
-    background-color: #0e1117;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: radial-gradient(circle at top left, rgba(214,45,109,0.18), transparent 20%),
+                radial-gradient(circle at top right, rgba(0,198,255,0.15), transparent 18%),
+                radial-gradient(circle at bottom left, rgba(68, 192, 255, 0.10), transparent 22%),
+                #05070f;
     font-family: 'Poppins', sans-serif;
 }
 
 /* Buttons */
+div.stButton > button {
+    background: linear-gradient(90deg,#ff6a00,#ee0979);
+    color: white;
+    border-radius: 12px;
+    padding: 14px 26px;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+div.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 35px rgba(255,105,180,0.25);
+}
+
+/* Card */
+.card {
+    background: rgba(255,255,255,0.06);
+    padding: 28px;
+    border-radius: 24px;
+    backdrop-filter: blur(18px);
+    border: 1px solid rgba(255,255,255,0.08);
+    transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 30px 80px rgba(0,0,0,0.25);
+}
+
+.hero-banner {
+    margin: 0 -40px 30px -40px;
+    padding: 42px 48px;
+    border-radius: 30px;
+    background: linear-gradient(180deg, rgba(20,24,37,0.95), rgba(12,15,25,0.88));
+    border: 1px solid rgba(255,255,255,0.08);
+    box-shadow: 0 32px 90px rgba(0,0,0,0.35);
+}
+.hero-content {
+    max-width: 980px;
+    margin: 0 auto;
+}
+.hero-banner h1 {
+    margin: 0;
+    font-size: clamp(2.8rem, 4vw, 4.2rem);
+    letter-spacing: 0.04em;
+    color: #ff2d6d;
+    line-height: 1.05;
+    text-shadow: 0 24px 40px rgba(255,45,109,0.18);
+}
+.hero-banner p {
+    margin: 20px 0 0;
+    font-size: 1.05rem;
+    color: #d5d8e4;
+    max-width: 720px;
+    line-height: 1.8;
+}
+.hero-badges {
+    margin-top: 28px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+}
+.hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 18px;
+    border-radius: 999px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.08);
+    color: #e8edf8;
+    font-size: 0.95rem;
+}
+.feature-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 18px;
+    margin-top: 26px;
+}
+.feature-card {
+    flex: 1;
+    min-width: 220px;
+    max-width: 280px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 22px;
+    padding: 18px 20px;
+    box-shadow: 0 18px 40px rgba(0,0,0,0.18);
+    color: #f3f6ff;
+}
+.feature-card strong {
+    display: block;
+    margin-top: 12px;
+    font-size: 1.15rem;
+    color: #ffffff;
+}
+.section-card {
+    background: rgba(12, 18, 33, 0.85);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 24px;
+    padding: 24px;
+    box-shadow: 0 24px 70px rgba(0,0,0,0.20);
+}
+.section-card h2 {
+    margin-top: 0;
+    margin-bottom: 18px;
+    color: #ffffff;
+}
+.team-card {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.10);
+    border-radius: 18px;
+    padding: 18px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.team-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 18px 40px rgba(0,0,0,0.22);
+}
+.team-label {
+    margin-top: 16px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+}
+.vs-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+/* Progress */
+.stProgress > div > div {
+    background: linear-gradient(90deg,#00c6ff,#0072ff);
+}
+
+/* Animated gradient title */
+.title {
+        background: linear-gradient(90deg,#ff6a00,#ee0979,#8e2de2,#00c6ff);
+        background-size: 300% 100%;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        animation: gradientShift 8s linear infinite;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Floating team logos */
+.team-logo {
+    border-radius: 12px;
+    transition: transform 0.6s ease, box-shadow 0.6s ease;
+    animation: floaty 4s ease-in-out infinite;
+}
+.team-logo:hover { transform: translateY(-8px) scale(1.05); box-shadow: 0 10px 25px rgba(0,0,0,0.4); }
+@keyframes floaty {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+    100% { transform: translateY(0); }
+}
+
+/* Card entrance */
+.card { opacity: 0; transform: translateY(8px); animation: cardIn 0.6s forwards; }
+@keyframes cardIn { to { opacity: 1; transform: translateY(0); } }
+
+/* Animated predict button */
 div.stButton > button {
     background: linear-gradient(90deg,#ff6a00,#ee0979);
     color: white;
@@ -20,36 +264,54 @@ div.stButton > button {
     font-weight: bold;
     transition: 0.3s;
 }
-div.stButton > button:hover {
-    transform: scale(1.08);
-    box-shadow: 0px 0px 15px rgba(255,105,180,0.6);
+div.stButton > button:active { transform: translateY(2px); }
+
+.hero-banner {
+  margin: 0 -40px 30px -40px;
+  padding: 40px 40px 30px 40px;
+  border-radius: 30px;
+  background: rgba(20, 24, 37, 0.78);
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 30px 90px rgba(0,0,0,0.35);
+  backdrop-filter: blur(18px);
+}
+.hero-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.hero-banner h1 {
+  margin: 0;
+  font-size: 3.2rem;
+  letter-spacing: 0.04em;
+  color: #ff2d6d;
+  text-shadow: 0 15px 40px rgba(255,45,109,0.18);
+}
+.hero-banner p {
+  margin: 16px 0 0;
+  font-size: 1.05rem;
+  color: #d5d8e4;
+  max-width: 780px;
+  line-height: 1.8;
 }
 
-/* Card */
-.card {
-    background: rgba(255,255,255,0.05);
-    padding: 20px;
-    border-radius: 15px;
-    backdrop-filter: blur(10px);
-    transition: 0.3s;
-}
-.card:hover {
-    transform: translateY(-5px);
+.section-card {
+  background: rgba(12, 18, 33, 0.75);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 22px;
+  padding: 18px 20px;
+  box-shadow: 0 24px 60px rgba(0,0,0,0.20);
 }
 
-/* Title */
-.title {
-    font-size: 42px;
-    font-weight: bold;
-    text-align: center;
-    background: linear-gradient(90deg,#ff6a00,#ee0979);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+.section-card h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: #ffffff;
 }
 
-/* Progress */
-.stProgress > div > div {
-    background: linear-gradient(90deg,#00c6ff,#0072ff);
+.team-logo {
+  border-radius: 50%;
+  transition: transform 0.6s ease, box-shadow 0.6s ease;
+  animation: floaty 4s ease-in-out infinite;
 }
 
 </style>
@@ -96,13 +358,48 @@ TEAM_COLORS = {
     "LSG": "#00AEEF"
 }
 
-# 🎨 Config
-st.set_page_config(page_title="IPL Predictor", layout="wide")
+# Use the backend FastAPI predict endpoint instead of loading a local model file.
+# The Streamlit frontend will call this URL when the Predict button is pressed.
+API_URL = os.getenv("API_URL", "http://127.0.0.1:8000/predict-match")
 
-import joblib
+# Hero section
+st.markdown(
+    """
+    <div class='hero-banner'>
+      <div class='hero-content'>
+        <h1>Sports Analytics & Prediction System</h1>
+        <p>Advanced match forecasting with player impact analysis, live probability insights, and team strength prediction.</p>
+        <div class='hero-badges'>
+          <div class='hero-badge'>📊 Historical data driven</div>
+          <div class='hero-badge'>⚡ Real-time prediction</div>
+          <div class='hero-badge'>🔥 Player impact insights</div>
+        </div>
+      </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
-model = joblib.load("model.pkl")
-prediction = model.predict(input_data)
+st.markdown(
+    """
+    <div class='feature-row'>
+      <div class='feature-card'>
+        <span>📊 Predictive analytics</span>
+        <strong>Instant match forecasts</strong>
+      </div>
+      <div class='feature-card'>
+        <span>⚡ Smart player insights</span>
+        <strong>Team strength analysis</strong>
+      </div>
+      <div class='feature-card'>
+        <span>🔍 Clear probability</span>
+        <strong>Easy decision support</strong>
+      </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+
 # 📐 Layout
 left, main, right = st.columns([1, 3, 1])
 
@@ -123,9 +420,9 @@ with right:
 # 🎯 MAIN
 with main:
 
-    st.markdown('<div class="title">🏏 IPL AI Predictor</div>', unsafe_allow_html=True)
     teams = list(TEAM_COLORS.keys())
 
+    st.markdown('<div class="section-card">', unsafe_allow_html=True)
     col1, col2 = st.columns(2)
 
     with col1:
@@ -137,18 +434,26 @@ with main:
     # VS
     st.markdown('<div class="card">', unsafe_allow_html=True)
 
-    colA, colB, colC = st.columns([1,0.5,1])
+    colA, colB, colC = st.columns([1,0.3,1])
 
     with colA:
-      st.image(f"assets/{team1}.png", width=120)
-      st.markdown(f"<h4 style='text-align:center;color:{TEAM_COLORS[team1]}'>{team1}</h4>", unsafe_allow_html=True)
+        team1_logo = os.path.join(ASSETS_DIR, f"{team1}.png")
+        st.image(team1_logo, width=130)
+        st.markdown(
+            f"<div style='text-align:center;color:{TEAM_COLORS[team1]};font-weight:700;margin-top:8px'>{team1}</div>",
+            unsafe_allow_html=True,
+        )
 
     with colB:
-      st.markdown("<h2 style='text-align:center;'>VS</h2>", unsafe_allow_html=True)
+        st.markdown("<div class='vs-box'>VS</div>", unsafe_allow_html=True)
 
     with colC:
-      st.image(f"assets/{team2}.png", width=120)
-      st.markdown(f"<h4 style='text-align:center;color:{TEAM_COLORS[team2]}'>{team2}</h4>", unsafe_allow_html=True)
+        team2_logo = os.path.join(ASSETS_DIR, f"{team2}.png")
+        st.image(team2_logo, width=130)
+        st.markdown(
+            f"<div style='text-align:center;color:{TEAM_COLORS[team2]};font-weight:700;margin-top:8px'>{team2}</div>",
+            unsafe_allow_html=True,
+        )
 
     st.markdown('</div>', unsafe_allow_html=True)
     # Players
@@ -182,6 +487,15 @@ with main:
                     st.error("API Error")
                 else:
                     result = response.json()
+                    
+                    # 💾 SAVE TO DATABASE
+                    save_prediction_to_db(
+                        team1=team1,
+                        team2=team2,
+                        winner=result["winner"],
+                        team1_prob=result["team1_prob"],
+                        team2_prob=result["team2_prob"]
+                    )
 
                     winner_color = TEAM_COLORS[result["winner"]]
 
@@ -269,6 +583,22 @@ with main:
                         st.warning("No data for Team 2") 
                       g1, g2 = st.columns(2)
 
-                    
+                    st.markdown('</div>', unsafe_allow_html=True)
+
             except Exception as e:
                 st.error(f"Error: {e}")
+
+    st.markdown('</div>', unsafe_allow_html=True)
+
+# ============================================
+# 📜 SHOW PREDICTION HISTORY FROM DATABASE
+# ============================================
+st.markdown("<br><br>", unsafe_allow_html=True)
+st.markdown("---")
+st.markdown("## 📜 Prediction History")
+
+history = get_prediction_history()
+if history is not None and not history.empty:
+    st.dataframe(history, use_container_width=True)
+else:
+    st.info("No predictions yet. Click 'Predict Winner' above to start!")

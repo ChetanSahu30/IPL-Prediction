@@ -1,8 +1,14 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Optional
 import pandas as pd
 import random
+import os
+
+# ─── Paths ───────────────────────────────────────────────────────────────────
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+PLAYER_STATS_PATH = os.path.join(BASE_DIR, "data", "raw", "player_stats.csv")
 
 # 🔥 Base strengths
 TEAM_BASE_STRENGTH = {
@@ -20,8 +26,17 @@ TEAM_BASE_STRENGTH = {
 
 app = FastAPI()
 
+# CORS middleware to allow Streamlit frontend to call this API
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # In production, replace with specific frontend URL
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # ✅ Load data
-df_players = pd.read_csv("data/raw/player_stats.csv")
+df_players = pd.read_csv(PLAYER_STATS_PATH)
 
 # ✅ Input model
 class MatchInput(BaseModel):

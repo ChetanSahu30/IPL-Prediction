@@ -32,8 +32,7 @@ env/
 *.log
 
 # Data outputs (generated - not committed to keep repo lean)
-data/raw/*.csv
-data/raw/*.json
+# NOTE: data/raw CSVs ARE committed so deployment servers have access to them
 data/processed/
 data/db/
 

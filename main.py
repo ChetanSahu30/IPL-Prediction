@@ -16,7 +16,7 @@ import os
 import sys
 import time
 
-from config import LOG_FILE, LOG_LEVEL
+from config import LOG_FILE, LOG_LEVEL, MATCHES_CSV, PLAYER_STATS_CSV, TEAMS_JSON, BASE_DIR
 
 # Logging setup
 logging.basicConfig(
@@ -42,11 +42,28 @@ def mode_setup():
     from src.data.preprocess   import run_preprocessing
     from src.features.engineer import run_feature_engineering
 
-    logger.info("Step 1/5: Extracting match data from IPL.csv...")
-    save_teams_json()
-    matches, player_stats = build_all_matches(return_format="dataframes")
-    save_matches_csv(matches)
-    save_player_stats_csv(player_stats)
+    ipl_csv_path = os.path.join(BASE_DIR, "IPL.csv")
+    if os.path.exists(ipl_csv_path):
+        logger.info("Step 1/5: Extracting match data from IPL.csv...")
+        save_teams_json()
+        matches, player_stats = build_all_matches(return_format="dataframes")
+        save_matches_csv(matches)
+        save_player_stats_csv(player_stats)
+    else:
+        logger.warning(
+            "IPL.csv not found. Skipping extraction step because raw files already exist."
+        )
+        missing = [
+            path for path in (MATCHES_CSV, PLAYER_STATS_CSV, TEAMS_JSON)
+            if not os.path.exists(path)
+        ]
+        if missing:
+            raise FileNotFoundError(
+                "Missing required raw artifacts for setup: " + ", ".join(missing) +
+                ".\nEither add IPL.csv to the project root or provide data/raw/matches.csv, "
+                "data/raw/player_stats.csv, and data/raw/teams.json."
+            )
+        save_teams_json()
 
     logger.info("Step 2/5: Creating SQLite database schema...")
     setup_database()
