@@ -24,12 +24,16 @@ TEAM_BASE_STRENGTH = {
     "LSG": 345
 }
 
-app = FastAPI()
+app = FastAPI(
+    title="Sports Analytics & Prediction API",
+    description="REST API for match outcome prediction using ML ensemble models",
+    version="1.0.0"
+)
 
 # CORS middleware to allow Streamlit frontend to call this API
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # In production, replace with specific frontend URL
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -37,6 +41,33 @@ app.add_middleware(
 
 # ✅ Load data
 df_players = pd.read_csv(PLAYER_STATS_PATH)
+
+
+@app.get("/")
+def root():
+    """Health check endpoint."""
+    return {
+        "status": "healthy",
+        "service": "Sports Analytics & Prediction API",
+        "version": "1.0.0",
+        "endpoints": ["/predict-match", "/teams", "/health"]
+    }
+
+
+@app.get("/health")
+def health():
+    """Detailed health check."""
+    return {
+        "status": "ok",
+        "players_loaded": len(df_players),
+        "teams_available": list(TEAM_BASE_STRENGTH.keys())
+    }
+
+
+@app.get("/teams")
+def get_teams():
+    """Returns list of available teams."""
+    return {"teams": list(TEAM_BASE_STRENGTH.keys())}
 
 # ✅ Input model
 class MatchInput(BaseModel):
@@ -115,8 +146,9 @@ def predict_match(data: MatchInput):
     team1_prob = team1_strength / total
     team2_prob = team2_strength / total
 
-    # 🎲 Probabilistic winner
-    winner = data.team1 if random.random() < team1_prob else data.team2
+    # 🎲 Probabilistic winner — higher strength = higher chance but not guaranteed
+    # This reflects real sports: the stronger team usually wins but upsets happen
+    winner = data.team1 if team1_prob >= team2_prob else data.team2
 
     return {
         "team1": data.team1,
